@@ -1,0 +1,476 @@
+order_item_id,order_id,product_id,product_name,category,quantity,unit_price
+1,1249,4,Coffee Maker,Home & Garden,2,49.99
+2,1117,5,Yoga Mat,Sports,1,28.5
+3,1117,12,Air Purifier,Home & Garden,3,120.0
+4,1117,8,Desk Lamp,Home & Garden,1,32.0
+5,1178,13,Fitness Tracker,Electronics,3,99.99
+6,1178,15,Cotton T-Shirt,Clothing,3,24.99
+7,1046,13,Fitness Tracker,Electronics,1,99.99
+8,1046,4,Coffee Maker,Home & Garden,3,49.99
+9,1046,7,Data Science Handbook,Books,1,42.0
+10,1235,11,SQL for Beginners,Books,1,29.99
+11,1220,14,Winter Jacket,Clothing,1,149.0
+12,1220,3,Python Programming Book,Books,1,34.99
+13,1191,3,Python Programming Book,Books,2,34.99
+14,1177,10,Cycling Gloves,Sports,3,22.0
+15,1132,15,Cotton T-Shirt,Clothing,1,24.99
+16,1132,5,Yoga Mat,Sports,2,28.5
+17,1132,8,Desk Lamp,Home & Garden,3,32.0
+18,1199,12,Air Purifier,Home & Garden,2,120.0
+19,1199,7,Data Science Handbook,Books,3,42.0
+20,1186,8,Desk Lamp,Home & Garden,3,32.0
+21,1186,15,Cotton T-Shirt,Clothing,1,24.99
+22,1186,2,Running Shoes,Sports,2,65.0
+23,1182,6,Smartphone Case,Electronics,1,15.99
+24,1182,10,Cycling Gloves,Sports,1,22.0
+25,1182,5,Yoga Mat,Sports,1,28.5
+26,1193,14,Winter Jacket,Clothing,3,149.0
+27,1193,15,Cotton T-Shirt,Clothing,1,24.99
+28,1193,10,Cycling Gloves,Sports,3,22.0
+29,1005,10,Cycling Gloves,Sports,1,22.0
+30,1005,1,Wireless Headphones,Electronics,2,89.99
+31,1121,11,SQL for Beginners,Books,1,29.99
+32,1121,8,Desk Lamp,Home & Garden,3,32.0
+33,1121,5,Yoga Mat,Sports,2,28.5
+34,1137,14,Winter Jacket,Clothing,2,149.0
+35,1137,8,Desk Lamp,Home & Garden,2,32.0
+36,1137,2,Running Shoes,Sports,2,65.0
+37,1203,6,Smartphone Case,Electronics,1,15.99
+38,1203,11,SQL for Beginners,Books,1,29.99
+39,1016,6,Smartphone Case,Electronics,2,15.99
+40,1233,8,Desk Lamp,Home & Garden,2,32.0
+41,1233,5,Yoga Mat,Sports,3,28.5
+42,1233,11,SQL for Beginners,Books,1,29.99
+43,1237,2,Running Shoes,Sports,2,65.0
+44,1237,6,Smartphone Case,Electronics,2,15.99
+45,1095,2,Running Shoes,Sports,2,65.0
+46,1238,14,Winter Jacket,Clothing,3,149.0
+47,1238,1,Wireless Headphones,Electronics,2,89.99
+48,1238,11,SQL for Beginners,Books,2,29.99
+49,1072,4,Coffee Maker,Home & Garden,3,49.99
+50,1096,10,Cycling Gloves,Sports,2,22.0
+51,1096,13,Fitness Tracker,Electronics,3,99.99
+52,1143,13,Fitness Tracker,Electronics,1,99.99
+53,1143,1,Wireless Headphones,Electronics,2,89.99
+54,1073,9,Bluetooth Speaker,Electronics,1,55.0
+55,1104,8,Desk Lamp,Home & Garden,2,32.0
+56,1104,12,Air Purifier,Home & Garden,1,120.0
+57,1170,11,SQL for Beginners,Books,3,29.99
+58,1022,12,Air Purifier,Home & Garden,1,120.0
+59,1211,9,Bluetooth Speaker,Electronics,3,55.0
+60,1211,1,Wireless Headphones,Electronics,2,89.99
+61,1004,2,Running Shoes,Sports,1,65.0
+62,1041,8,Desk Lamp,Home & Garden,1,32.0
+63,1246,14,Winter Jacket,Clothing,3,149.0
+64,1246,3,Python Programming Book,Books,2,34.99
+65,1246,8,Desk Lamp,Home & Garden,3,32.0
+66,1230,5,Yoga Mat,Sports,2,28.5
+67,1230,7,Data Science Handbook,Books,1,42.0
+68,1230,8,Desk Lamp,Home & Garden,2,32.0
+69,1051,3,Python Programming Book,Books,3,34.99
+70,1051,7,Data Science Handbook,Books,3,42.0
+71,1051,4,Coffee Maker,Home & Garden,3,49.99
+72,1161,14,Winter Jacket,Clothing,1,149.0
+73,1056,13,Fitness Tracker,Electronics,2,99.99
+74,1056,15,Cotton T-Shirt,Clothing,2,24.99
+75,1120,5,Yoga Mat,Sports,2,28.5
+76,1120,14,Winter Jacket,Clothing,3,149.0
+77,1120,1,Wireless Headphones,Electronics,2,89.99
+78,1112,10,Cycling Gloves,Sports,1,22.0
+79,1112,11,SQL for Beginners,Books,2,29.99
+80,1112,8,Desk Lamp,Home & Garden,3,32.0
+81,1241,8,Desk Lamp,Home & Garden,2,32.0
+82,1227,6,Smartphone Case,Electronics,3,15.99
+83,1017,7,Data Science Handbook,Books,1,42.0
+84,1017,8,Desk Lamp,Home & Garden,3,32.0
+85,1017,6,Smartphone Case,Electronics,1,15.99
+86,1060,7,Data Science Handbook,Books,2,42.0
+87,1060,4,Coffee Maker,Home & Garden,1,49.99
+88,1060,13,Fitness Tracker,Electronics,2,99.99
+89,1184,8,Desk Lamp,Home & Garden,2,32.0
+90,1184,12,Air Purifier,Home & Garden,2,120.0
+91,1184,13,Fitness Tracker,Electronics,3,99.99
+92,1164,13,Fitness Tracker,Electronics,3,99.99
+93,1040,3,Python Programming Book,Books,2,34.99
+94,1172,3,Python Programming Book,Books,3,34.99
+95,1003,6,Smartphone Case,Electronics,2,15.99
+96,1003,14,Winter Jacket,Clothing,1,149.0
+97,1003,2,Running Shoes,Sports,3,65.0
+98,1082,1,Wireless Headphones,Electronics,1,89.99
+99,1082,12,Air Purifier,Home & Garden,2,120.0
+100,1156,3,Python Programming Book,Books,2,34.99
+101,1156,2,Running Shoes,Sports,2,65.0
+102,1156,8,Desk Lamp,Home & Garden,3,32.0
+103,1122,7,Data Science Handbook,Books,2,42.0
+104,1122,11,SQL for Beginners,Books,3,29.99
+105,1122,2,Running Shoes,Sports,3,65.0
+106,1042,6,Smartphone Case,Electronics,3,15.99
+107,1042,11,SQL for Beginners,Books,2,29.99
+108,1126,1,Wireless Headphones,Electronics,1,89.99
+109,1126,10,Cycling Gloves,Sports,3,22.0
+110,1126,2,Running Shoes,Sports,3,65.0
+111,1167,15,Cotton T-Shirt,Clothing,2,24.99
+112,1129,12,Air Purifier,Home & Garden,1,120.0
+113,1198,2,Running Shoes,Sports,3,65.0
+114,1198,13,Fitness Tracker,Electronics,3,99.99
+115,1088,8,Desk Lamp,Home & Garden,1,32.0
+116,1153,5,Yoga Mat,Sports,2,28.5
+117,1153,1,Wireless Headphones,Electronics,1,89.99
+118,1153,14,Winter Jacket,Clothing,2,149.0
+119,1248,6,Smartphone Case,Electronics,2,15.99
+120,1148,3,Python Programming Book,Books,3,34.99
+121,1148,4,Coffee Maker,Home & Garden,2,49.99
+122,1208,10,Cycling Gloves,Sports,3,22.0
+123,1077,3,Python Programming Book,Books,1,34.99
+124,1091,10,Cycling Gloves,Sports,2,22.0
+125,1140,11,SQL for Beginners,Books,3,29.99
+126,1140,4,Coffee Maker,Home & Garden,1,49.99
+127,1140,8,Desk Lamp,Home & Garden,1,32.0
+128,1081,11,SQL for Beginners,Books,2,29.99
+129,1081,5,Yoga Mat,Sports,2,28.5
+130,1147,1,Wireless Headphones,Electronics,2,89.99
+131,1147,13,Fitness Tracker,Electronics,3,99.99
+132,1147,8,Desk Lamp,Home & Garden,3,32.0
+133,1008,3,Python Programming Book,Books,1,34.99
+134,1124,6,Smartphone Case,Electronics,2,15.99
+135,1124,10,Cycling Gloves,Sports,3,22.0
+136,1033,7,Data Science Handbook,Books,3,42.0
+137,1063,5,Yoga Mat,Sports,2,28.5
+138,1034,14,Winter Jacket,Clothing,2,149.0
+139,1106,4,Coffee Maker,Home & Garden,2,49.99
+140,1228,14,Winter Jacket,Clothing,2,149.0
+141,1006,4,Coffee Maker,Home & Garden,2,49.99
+142,1030,6,Smartphone Case,Electronics,3,15.99
+143,1030,10,Cycling Gloves,Sports,2,22.0
+144,1030,5,Yoga Mat,Sports,1,28.5
+145,1181,7,Data Science Handbook,Books,3,42.0
+146,1181,5,Yoga Mat,Sports,3,28.5
+147,1181,1,Wireless Headphones,Electronics,3,89.99
+148,1009,1,Wireless Headphones,Electronics,3,89.99
+149,1070,8,Desk Lamp,Home & Garden,1,32.0
+150,1070,14,Winter Jacket,Clothing,3,149.0
+151,1070,5,Yoga Mat,Sports,2,28.5
+152,1192,11,SQL for Beginners,Books,1,29.99
+153,1031,5,Yoga Mat,Sports,3,28.5
+154,1031,11,SQL for Beginners,Books,3,29.99
+155,1031,13,Fitness Tracker,Electronics,3,99.99
+156,1226,11,SQL for Beginners,Books,1,29.99
+157,1097,11,SQL for Beginners,Books,2,29.99
+158,1097,1,Wireless Headphones,Electronics,1,89.99
+159,1097,5,Yoga Mat,Sports,3,28.5
+160,1155,12,Air Purifier,Home & Garden,1,120.0
+161,1155,3,Python Programming Book,Books,2,34.99
+162,1086,12,Air Purifier,Home & Garden,1,120.0
+163,1086,7,Data Science Handbook,Books,1,42.0
+164,1057,13,Fitness Tracker,Electronics,3,99.99
+165,1219,15,Cotton T-Shirt,Clothing,2,24.99
+166,1160,9,Bluetooth Speaker,Electronics,2,55.0
+167,1160,5,Yoga Mat,Sports,2,28.5
+168,1160,3,Python Programming Book,Books,2,34.99
+169,1028,14,Winter Jacket,Clothing,1,149.0
+170,1028,6,Smartphone Case,Electronics,2,15.99
+171,1028,13,Fitness Tracker,Electronics,1,99.99
+172,1098,3,Python Programming Book,Books,1,34.99
+173,1067,12,Air Purifier,Home & Garden,3,120.0
+174,1067,11,SQL for Beginners,Books,2,29.99
+175,1067,7,Data Science Handbook,Books,1,42.0
+176,1168,1,Wireless Headphones,Electronics,3,89.99
+177,1168,5,Yoga Mat,Sports,1,28.5
+178,1101,6,Smartphone Case,Electronics,3,15.99
+179,1101,11,SQL for Beginners,Books,3,29.99
+180,1136,10,Cycling Gloves,Sports,3,22.0
+181,1136,7,Data Science Handbook,Books,2,42.0
+182,1118,11,SQL for Beginners,Books,1,29.99
+183,1036,1,Wireless Headphones,Electronics,3,89.99
+184,1036,10,Cycling Gloves,Sports,2,22.0
+185,1089,15,Cotton T-Shirt,Clothing,3,24.99
+186,1102,11,SQL for Beginners,Books,1,29.99
+187,1047,14,Winter Jacket,Clothing,2,149.0
+188,1047,8,Desk Lamp,Home & Garden,3,32.0
+189,1047,12,Air Purifier,Home & Garden,2,120.0
+190,1113,3,Python Programming Book,Books,1,34.99
+191,1002,5,Yoga Mat,Sports,2,28.5
+192,1010,2,Running Shoes,Sports,1,65.0
+193,1012,3,Python Programming Book,Books,2,34.99
+194,1012,7,Data Science Handbook,Books,3,42.0
+195,1012,8,Desk Lamp,Home & Garden,3,32.0
+196,1074,12,Air Purifier,Home & Garden,3,120.0
+197,1133,10,Cycling Gloves,Sports,3,22.0
+198,1133,12,Air Purifier,Home & Garden,1,120.0
+199,1108,11,SQL for Beginners,Books,2,29.99
+200,1108,2,Running Shoes,Sports,3,65.0
+201,1150,5,Yoga Mat,Sports,3,28.5
+202,1150,1,Wireless Headphones,Electronics,2,89.99
+203,1048,8,Desk Lamp,Home & Garden,2,32.0
+204,1244,4,Coffee Maker,Home & Garden,2,49.99
+205,1202,11,SQL for Beginners,Books,2,29.99
+206,1123,15,Cotton T-Shirt,Clothing,1,24.99
+207,1123,11,SQL for Beginners,Books,2,29.99
+208,1123,6,Smartphone Case,Electronics,2,15.99
+209,1145,2,Running Shoes,Sports,2,65.0
+210,1093,11,SQL for Beginners,Books,1,29.99
+211,1055,11,SQL for Beginners,Books,3,29.99
+212,1214,1,Wireless Headphones,Electronics,2,89.99
+213,1214,15,Cotton T-Shirt,Clothing,1,24.99
+214,1214,13,Fitness Tracker,Electronics,1,99.99
+215,1189,4,Coffee Maker,Home & Garden,3,49.99
+216,1189,2,Running Shoes,Sports,1,65.0
+217,1189,13,Fitness Tracker,Electronics,3,99.99
+218,1128,14,Winter Jacket,Clothing,1,149.0
+219,1171,13,Fitness Tracker,Electronics,3,99.99
+220,1171,3,Python Programming Book,Books,1,34.99
+221,1013,14,Winter Jacket,Clothing,1,149.0
+222,1013,3,Python Programming Book,Books,3,34.99
+223,1068,13,Fitness Tracker,Electronics,1,99.99
+224,1068,3,Python Programming Book,Books,3,34.99
+225,1114,3,Python Programming Book,Books,1,34.99
+226,1015,13,Fitness Tracker,Electronics,1,99.99
+227,1015,15,Cotton T-Shirt,Clothing,3,24.99
+228,1138,1,Wireless Headphones,Electronics,2,89.99
+229,1138,3,Python Programming Book,Books,1,34.99
+230,1107,12,Air Purifier,Home & Garden,2,120.0
+231,1131,2,Running Shoes,Sports,2,65.0
+232,1131,12,Air Purifier,Home & Garden,2,120.0
+233,1131,15,Cotton T-Shirt,Clothing,2,24.99
+234,1215,10,Cycling Gloves,Sports,3,22.0
+235,1215,2,Running Shoes,Sports,1,65.0
+236,1215,8,Desk Lamp,Home & Garden,3,32.0
+237,1231,12,Air Purifier,Home & Garden,3,120.0
+238,1019,9,Bluetooth Speaker,Electronics,2,55.0
+239,1025,11,SQL for Beginners,Books,1,29.99
+240,1025,1,Wireless Headphones,Electronics,2,89.99
+241,1053,7,Data Science Handbook,Books,1,42.0
+242,1053,11,SQL for Beginners,Books,2,29.99
+243,1200,15,Cotton T-Shirt,Clothing,1,24.99
+244,1200,8,Desk Lamp,Home & Garden,2,32.0
+245,1200,2,Running Shoes,Sports,3,65.0
+246,1029,2,Running Shoes,Sports,1,65.0
+247,1188,10,Cycling Gloves,Sports,3,22.0
+248,1188,11,SQL for Beginners,Books,3,29.99
+249,1213,6,Smartphone Case,Electronics,3,15.99
+250,1213,7,Data Science Handbook,Books,2,42.0
+251,1213,10,Cycling Gloves,Sports,2,22.0
+252,1014,10,Cycling Gloves,Sports,3,22.0
+253,1014,7,Data Science Handbook,Books,1,42.0
+254,1014,2,Running Shoes,Sports,3,65.0
+255,1023,15,Cotton T-Shirt,Clothing,3,24.99
+256,1023,13,Fitness Tracker,Electronics,1,99.99
+257,1023,9,Bluetooth Speaker,Electronics,2,55.0
+258,1044,15,Cotton T-Shirt,Clothing,2,24.99
+259,1044,4,Coffee Maker,Home & Garden,2,49.99
+260,1179,7,Data Science Handbook,Books,3,42.0
+261,1179,15,Cotton T-Shirt,Clothing,1,24.99
+262,1185,6,Smartphone Case,Electronics,2,15.99
+263,1039,11,SQL for Beginners,Books,2,29.99
+264,1039,5,Yoga Mat,Sports,1,28.5
+265,1032,15,Cotton T-Shirt,Clothing,1,24.99
+266,1032,8,Desk Lamp,Home & Garden,1,32.0
+267,1032,2,Running Shoes,Sports,1,65.0
+268,1080,2,Running Shoes,Sports,3,65.0
+269,1080,12,Air Purifier,Home & Garden,2,120.0
+270,1221,9,Bluetooth Speaker,Electronics,1,55.0
+271,1149,10,Cycling Gloves,Sports,3,22.0
+272,1218,9,Bluetooth Speaker,Electronics,2,55.0
+273,1127,2,Running Shoes,Sports,3,65.0
+274,1127,7,Data Science Handbook,Books,2,42.0
+275,1127,6,Smartphone Case,Electronics,3,15.99
+276,1158,1,Wireless Headphones,Electronics,2,89.99
+277,1174,5,Yoga Mat,Sports,3,28.5
+278,1174,6,Smartphone Case,Electronics,3,15.99
+279,1174,2,Running Shoes,Sports,1,65.0
+280,1176,11,SQL for Beginners,Books,2,29.99
+281,1190,14,Winter Jacket,Clothing,1,149.0
+282,1078,14,Winter Jacket,Clothing,2,149.0
+283,1078,9,Bluetooth Speaker,Electronics,1,55.0
+284,1141,10,Cycling Gloves,Sports,2,22.0
+285,1141,4,Coffee Maker,Home & Garden,3,49.99
+286,1152,10,Cycling Gloves,Sports,3,22.0
+287,1152,11,SQL for Beginners,Books,1,29.99
+288,1152,14,Winter Jacket,Clothing,3,149.0
+289,1049,14,Winter Jacket,Clothing,1,149.0
+290,1049,12,Air Purifier,Home & Garden,1,120.0
+291,1049,5,Yoga Mat,Sports,2,28.5
+292,1225,13,Fitness Tracker,Electronics,2,99.99
+293,1225,5,Yoga Mat,Sports,1,28.5
+294,1225,6,Smartphone Case,Electronics,1,15.99
+295,1187,10,Cycling Gloves,Sports,3,22.0
+296,1083,2,Running Shoes,Sports,3,65.0
+297,1083,3,Python Programming Book,Books,3,34.99
+298,1212,1,Wireless Headphones,Electronics,1,89.99
+299,1196,9,Bluetooth Speaker,Electronics,2,55.0
+300,1196,4,Coffee Maker,Home & Garden,2,49.99
+301,1196,7,Data Science Handbook,Books,2,42.0
+302,1175,6,Smartphone Case,Electronics,2,15.99
+303,1079,6,Smartphone Case,Electronics,3,15.99
+304,1079,13,Fitness Tracker,Electronics,1,99.99
+305,1079,10,Cycling Gloves,Sports,1,22.0
+306,1130,3,Python Programming Book,Books,3,34.99
+307,1076,11,SQL for Beginners,Books,1,29.99
+308,1195,8,Desk Lamp,Home & Garden,2,32.0
+309,1195,11,SQL for Beginners,Books,2,29.99
+310,1157,8,Desk Lamp,Home & Garden,1,32.0
+311,1157,7,Data Science Handbook,Books,3,42.0
+312,1157,5,Yoga Mat,Sports,1,28.5
+313,1094,6,Smartphone Case,Electronics,2,15.99
+314,1236,2,Running Shoes,Sports,2,65.0
+315,1087,11,SQL for Beginners,Books,3,29.99
+316,1087,10,Cycling Gloves,Sports,3,22.0
+317,1087,8,Desk Lamp,Home & Garden,2,32.0
+318,1059,4,Coffee Maker,Home & Garden,2,49.99
+319,1115,1,Wireless Headphones,Electronics,2,89.99
+320,1115,15,Cotton T-Shirt,Clothing,1,24.99
+321,1115,4,Coffee Maker,Home & Garden,1,49.99
+322,1206,5,Yoga Mat,Sports,1,28.5
+323,1206,6,Smartphone Case,Electronics,1,15.99
+324,1050,12,Air Purifier,Home & Garden,1,120.0
+325,1050,7,Data Science Handbook,Books,1,42.0
+326,1166,9,Bluetooth Speaker,Electronics,1,55.0
+327,1166,12,Air Purifier,Home & Garden,3,120.0
+328,1139,14,Winter Jacket,Clothing,2,149.0
+329,1139,11,SQL for Beginners,Books,1,29.99
+330,1139,13,Fitness Tracker,Electronics,2,99.99
+331,1066,14,Winter Jacket,Clothing,3,149.0
+332,1217,7,Data Science Handbook,Books,1,42.0
+333,1243,15,Cotton T-Shirt,Clothing,2,24.99
+334,1243,2,Running Shoes,Sports,3,65.0
+335,1062,10,Cycling Gloves,Sports,3,22.0
+336,1062,7,Data Science Handbook,Books,3,42.0
+337,1045,5,Yoga Mat,Sports,2,28.5
+338,1045,2,Running Shoes,Sports,1,65.0
+339,1110,3,Python Programming Book,Books,3,34.99
+340,1110,13,Fitness Tracker,Electronics,2,99.99
+341,1054,15,Cotton T-Shirt,Clothing,2,24.99
+342,1054,6,Smartphone Case,Electronics,1,15.99
+343,1054,2,Running Shoes,Sports,1,65.0
+344,1223,10,Cycling Gloves,Sports,3,22.0
+345,1223,7,Data Science Handbook,Books,1,42.0
+346,1135,14,Winter Jacket,Clothing,3,149.0
+347,1135,5,Yoga Mat,Sports,2,28.5
+348,1209,4,Coffee Maker,Home & Garden,2,49.99
+349,1075,2,Running Shoes,Sports,3,65.0
+350,1085,2,Running Shoes,Sports,1,65.0
+351,1085,9,Bluetooth Speaker,Electronics,2,55.0
+352,1085,14,Winter Jacket,Clothing,2,149.0
+353,1180,14,Winter Jacket,Clothing,1,149.0
+354,1180,11,SQL for Beginners,Books,1,29.99
+355,1180,3,Python Programming Book,Books,1,34.99
+356,1061,4,Coffee Maker,Home & Garden,3,49.99
+357,1061,3,Python Programming Book,Books,1,34.99
+358,1084,2,Running Shoes,Sports,3,65.0
+359,1084,3,Python Programming Book,Books,2,34.99
+360,1084,13,Fitness Tracker,Electronics,2,99.99
+361,1224,13,Fitness Tracker,Electronics,3,99.99
+362,1224,10,Cycling Gloves,Sports,3,22.0
+363,1224,8,Desk Lamp,Home & Garden,3,32.0
+364,1018,10,Cycling Gloves,Sports,2,22.0
+365,1018,6,Smartphone Case,Electronics,1,15.99
+366,1018,11,SQL for Beginners,Books,2,29.99
+367,1069,8,Desk Lamp,Home & Garden,2,32.0
+368,1163,5,Yoga Mat,Sports,3,28.5
+369,1163,13,Fitness Tracker,Electronics,1,99.99
+370,1163,15,Cotton T-Shirt,Clothing,2,24.99
+371,1125,2,Running Shoes,Sports,2,65.0
+372,1125,5,Yoga Mat,Sports,1,28.5
+373,1125,8,Desk Lamp,Home & Garden,1,32.0
+374,1037,6,Smartphone Case,Electronics,2,15.99
+375,1105,11,SQL for Beginners,Books,1,29.99
+376,1240,10,Cycling Gloves,Sports,2,22.0
+377,1240,9,Bluetooth Speaker,Electronics,3,55.0
+378,1240,7,Data Science Handbook,Books,3,42.0
+379,1058,15,Cotton T-Shirt,Clothing,3,24.99
+380,1058,1,Wireless Headphones,Electronics,3,89.99
+381,1058,8,Desk Lamp,Home & Garden,1,32.0
+382,1245,10,Cycling Gloves,Sports,3,22.0
+383,1245,8,Desk Lamp,Home & Garden,1,32.0
+384,1239,8,Desk Lamp,Home & Garden,1,32.0
+385,1092,13,Fitness Tracker,Electronics,2,99.99
+386,1222,2,Running Shoes,Sports,1,65.0
+387,1222,9,Bluetooth Speaker,Electronics,1,55.0
+388,1222,11,SQL for Beginners,Books,1,29.99
+389,1100,12,Air Purifier,Home & Garden,2,120.0
+390,1038,9,Bluetooth Speaker,Electronics,3,55.0
+391,1038,15,Cotton T-Shirt,Clothing,1,24.99
+392,1229,6,Smartphone Case,Electronics,2,15.99
+393,1201,7,Data Science Handbook,Books,2,42.0
+394,1201,15,Cotton T-Shirt,Clothing,3,24.99
+395,1210,1,Wireless Headphones,Electronics,3,89.99
+396,1210,13,Fitness Tracker,Electronics,2,99.99
+397,1210,11,SQL for Beginners,Books,1,29.99
+398,1250,6,Smartphone Case,Electronics,1,15.99
+399,1165,11,SQL for Beginners,Books,2,29.99
+400,1165,7,Data Science Handbook,Books,3,42.0
+401,1165,5,Yoga Mat,Sports,3,28.5
+402,1043,14,Winter Jacket,Clothing,1,149.0
+403,1043,3,Python Programming Book,Books,3,34.99
+404,1043,6,Smartphone Case,Electronics,3,15.99
+405,1216,15,Cotton T-Shirt,Clothing,2,24.99
+406,1242,11,SQL for Beginners,Books,3,29.99
+407,1242,12,Air Purifier,Home & Garden,2,120.0
+408,1007,10,Cycling Gloves,Sports,3,22.0
+409,1197,5,Yoga Mat,Sports,3,28.5
+410,1151,11,SQL for Beginners,Books,2,29.99
+411,1151,13,Fitness Tracker,Electronics,1,99.99
+412,1027,12,Air Purifier,Home & Garden,3,120.0
+413,1027,14,Winter Jacket,Clothing,3,149.0
+414,1027,15,Cotton T-Shirt,Clothing,1,24.99
+415,1052,11,SQL for Beginners,Books,2,29.99
+416,1052,7,Data Science Handbook,Books,1,42.0
+417,1052,9,Bluetooth Speaker,Electronics,2,55.0
+418,1099,3,Python Programming Book,Books,2,34.99
+419,1099,4,Coffee Maker,Home & Garden,2,49.99
+420,1194,4,Coffee Maker,Home & Garden,1,49.99
+421,1169,2,Running Shoes,Sports,2,65.0
+422,1116,9,Bluetooth Speaker,Electronics,3,55.0
+423,1024,15,Cotton T-Shirt,Clothing,3,24.99
+424,1024,9,Bluetooth Speaker,Electronics,2,55.0
+425,1024,1,Wireless Headphones,Electronics,3,89.99
+426,1207,3,Python Programming Book,Books,3,34.99
+427,1001,3,Python Programming Book,Books,1,34.99
+428,1001,15,Cotton T-Shirt,Clothing,3,24.99
+429,1134,13,Fitness Tracker,Electronics,3,99.99
+430,1035,13,Fitness Tracker,Electronics,1,99.99
+431,1103,8,Desk Lamp,Home & Garden,2,32.0
+432,1103,1,Wireless Headphones,Electronics,3,89.99
+433,1103,7,Data Science Handbook,Books,3,42.0
+434,1205,8,Desk Lamp,Home & Garden,3,32.0
+435,1247,13,Fitness Tracker,Electronics,2,99.99
+436,1247,12,Air Purifier,Home & Garden,1,120.0
+437,1021,4,Coffee Maker,Home & Garden,2,49.99
+438,1021,5,Yoga Mat,Sports,1,28.5
+439,1021,13,Fitness Tracker,Electronics,2,99.99
+440,1204,10,Cycling Gloves,Sports,2,22.0
+441,1204,8,Desk Lamp,Home & Garden,2,32.0
+442,1204,14,Winter Jacket,Clothing,3,149.0
+443,1111,7,Data Science Handbook,Books,3,42.0
+444,1111,3,Python Programming Book,Books,1,34.99
+445,1111,4,Coffee Maker,Home & Garden,2,49.99
+446,1144,11,SQL for Beginners,Books,2,29.99
+447,1154,9,Bluetooth Speaker,Electronics,3,55.0
+448,1154,2,Running Shoes,Sports,3,65.0
+449,1026,5,Yoga Mat,Sports,1,28.5
+450,1065,5,Yoga Mat,Sports,2,28.5
+451,1183,3,Python Programming Book,Books,1,34.99
+452,1183,14,Winter Jacket,Clothing,1,149.0
+453,1183,7,Data Science Handbook,Books,2,42.0
+454,1142,15,Cotton T-Shirt,Clothing,2,24.99
+455,1142,1,Wireless Headphones,Electronics,1,89.99
+456,1173,9,Bluetooth Speaker,Electronics,1,55.0
+457,1173,6,Smartphone Case,Electronics,2,15.99
+458,1162,2,Running Shoes,Sports,2,65.0
+459,1090,4,Coffee Maker,Home & Garden,1,49.99
+460,1146,15,Cotton T-Shirt,Clothing,3,24.99
+461,1146,2,Running Shoes,Sports,3,65.0
+462,1159,13,Fitness Tracker,Electronics,1,99.99
+463,1159,3,Python Programming Book,Books,1,34.99
+464,1011,15,Cotton T-Shirt,Clothing,2,24.99
+465,1011,14,Winter Jacket,Clothing,3,149.0
+466,1234,13,Fitness Tracker,Electronics,3,99.99
+467,1109,8,Desk Lamp,Home & Garden,1,32.0
+468,1109,10,Cycling Gloves,Sports,1,22.0
+469,1020,5,Yoga Mat,Sports,1,28.5
+470,1119,9,Bluetooth Speaker,Electronics,3,55.0
+471,1071,9,Bluetooth Speaker,Electronics,2,55.0
+472,1071,7,Data Science Handbook,Books,1,42.0
+473,1071,2,Running Shoes,Sports,2,65.0
+474,1232,2,Running Shoes,Sports,1,65.0
+475,1064,7,Data Science Handbook,Books,3,42.0
