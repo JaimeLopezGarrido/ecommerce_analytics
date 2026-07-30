@@ -1,0 +1,476 @@
+order_item_id,order_id,order_date,year,quarter,month,month_name,day_of_week_name,customer_id,first_name,last_name,email,city,country,segment,product_id,product_name,category,quantity,unit_price,discount_pct,gross_revenue,discount_amount,net_revenue,status,is_valid_sale
+108,1126,2023-06-08,2023,2,6,June,Thursday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,1,"Wireless Headphones",Electronics,1,89.99,0.00,89.99,0.00,89.99,completed,1
+117,1153,2023-06-23,2023,2,6,June,Friday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,1,"Wireless Headphones",Electronics,1,89.99,5.00,89.99,4.50,85.49,completed,1
+130,1147,2023-07-16,2023,3,7,July,Sunday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,1,"Wireless Headphones",Electronics,2,89.99,10.00,179.98,18.00,161.98,completed,1
+147,1181,2023-08-13,2023,3,8,August,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,1,"Wireless Headphones",Electronics,3,89.99,10.00,269.97,27.00,242.97,completed,1
+148,1009,2023-08-14,2023,3,8,August,Monday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,1,"Wireless Headphones",Electronics,3,89.99,0.00,269.97,0.00,269.97,cancelled,0
+158,1097,2023-08-29,2023,3,8,August,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,1,"Wireless Headphones",Electronics,1,89.99,0.00,89.99,0.00,89.99,completed,1
+176,1168,2023-09-11,2023,3,9,September,Monday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,1,"Wireless Headphones",Electronics,3,89.99,20.00,269.97,53.99,215.98,completed,1
+183,1036,2023-09-29,2023,3,9,September,Friday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,1,"Wireless Headphones",Electronics,3,89.99,5.00,269.97,13.50,256.47,completed,1
+202,1150,2023-10-21,2023,4,10,October,Saturday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,1,"Wireless Headphones",Electronics,2,89.99,10.00,179.98,18.00,161.98,completed,1
+212,1214,2023-11-29,2023,4,11,November,Wednesday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,1,"Wireless Headphones",Electronics,2,89.99,15.00,179.98,27.00,152.98,completed,1
+228,1138,2023-12-20,2023,4,12,December,Wednesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,1,"Wireless Headphones",Electronics,2,89.99,10.00,179.98,18.00,161.98,completed,1
+240,1025,2024-01-15,2024,1,1,January,Monday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,1,"Wireless Headphones",Electronics,2,89.99,5.00,179.98,9.00,170.98,completed,1
+276,1158,2024-02-29,2024,1,2,February,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,1,"Wireless Headphones",Electronics,2,89.99,5.00,179.98,9.00,170.98,pending,1
+298,1212,2024-04-20,2024,2,4,April,Saturday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,1,"Wireless Headphones",Electronics,1,89.99,0.00,89.99,0.00,89.99,pending,1
+30,1005,2023-02-02,2023,1,2,February,Thursday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,1,"Wireless Headphones",Electronics,2,89.99,0.00,179.98,0.00,179.98,completed,1
+319,1115,2024-05-15,2024,2,5,May,Wednesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,1,"Wireless Headphones",Electronics,2,89.99,0.00,179.98,0.00,179.98,completed,1
+380,1058,2024-08-03,2024,3,8,August,Saturday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,1,"Wireless Headphones",Electronics,3,89.99,0.00,269.97,0.00,269.97,completed,1
+395,1210,2024-08-29,2024,3,8,August,Thursday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,1,"Wireless Headphones",Electronics,3,89.99,10.00,269.97,27.00,242.97,completed,1
+425,1024,2024-10-12,2024,4,10,October,Saturday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,1,"Wireless Headphones",Electronics,3,89.99,0.00,269.97,0.00,269.97,completed,1
+432,1103,2024-10-22,2024,4,10,October,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,1,"Wireless Headphones",Electronics,3,89.99,15.00,269.97,40.50,229.47,completed,1
+455,1142,2024-12-04,2024,4,12,December,Wednesday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,1,"Wireless Headphones",Electronics,1,89.99,10.00,89.99,9.00,80.99,completed,1
+47,1238,2023-03-08,2023,1,3,March,Wednesday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,1,"Wireless Headphones",Electronics,2,89.99,15.00,179.98,27.00,152.98,completed,1
+53,1143,2023-03-13,2023,1,3,March,Monday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,1,"Wireless Headphones",Electronics,2,89.99,0.00,179.98,0.00,179.98,completed,1
+60,1211,2023-03-30,2023,1,3,March,Thursday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,1,"Wireless Headphones",Electronics,2,89.99,15.00,179.98,27.00,152.98,completed,1
+77,1120,2023-04-25,2023,2,4,April,Tuesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,1,"Wireless Headphones",Electronics,2,89.99,0.00,179.98,0.00,179.98,completed,1
+98,1082,2023-05-24,2023,2,5,May,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,1,"Wireless Headphones",Electronics,1,89.99,0.00,89.99,0.00,89.99,completed,1
+109,1126,2023-06-08,2023,2,6,June,Thursday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,10,"Cycling Gloves",Sports,3,22.00,0.00,66.00,0.00,66.00,completed,1
+122,1208,2023-06-30,2023,2,6,June,Friday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,10,"Cycling Gloves",Sports,3,22.00,5.00,66.00,3.30,62.70,cancelled,0
+124,1091,2023-07-14,2023,3,7,July,Friday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,10,"Cycling Gloves",Sports,2,22.00,5.00,44.00,2.20,41.80,completed,1
+135,1124,2023-08-04,2023,3,8,August,Friday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,10,"Cycling Gloves",Sports,3,22.00,0.00,66.00,0.00,66.00,completed,1
+14,1177,2023-01-21,2023,1,1,January,Saturday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,pending,1
+143,1030,2023-08-13,2023,3,8,August,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,10,"Cycling Gloves",Sports,2,22.00,0.00,44.00,0.00,44.00,completed,1
+180,1136,2023-09-25,2023,3,9,September,Monday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,10,"Cycling Gloves",Sports,3,22.00,0.00,66.00,0.00,66.00,completed,1
+184,1036,2023-09-29,2023,3,9,September,Friday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,10,"Cycling Gloves",Sports,2,22.00,5.00,44.00,2.20,41.80,completed,1
+197,1133,2023-10-13,2023,4,10,October,Friday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,10,"Cycling Gloves",Sports,3,22.00,5.00,66.00,3.30,62.70,completed,1
+234,1215,2023-12-30,2023,4,12,December,Saturday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,completed,1
+24,1182,2023-01-30,2023,1,1,January,Monday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,10,"Cycling Gloves",Sports,1,22.00,10.00,22.00,2.20,19.80,completed,1
+247,1188,2024-01-24,2024,1,1,January,Wednesday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,10,"Cycling Gloves",Sports,3,22.00,5.00,66.00,3.30,62.70,completed,1
+251,1213,2024-01-24,2024,1,1,January,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,10,"Cycling Gloves",Sports,2,22.00,0.00,44.00,0.00,44.00,completed,1
+252,1014,2024-01-25,2024,1,1,January,Thursday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,completed,1
+271,1149,2024-02-20,2024,1,2,February,Tuesday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,10,"Cycling Gloves",Sports,3,22.00,0.00,66.00,0.00,66.00,pending,1
+28,1193,2023-02-01,2023,1,2,February,Wednesday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,10,"Cycling Gloves",Sports,3,22.00,5.00,66.00,3.30,62.70,completed,1
+284,1141,2024-03-22,2024,1,3,March,Friday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,10,"Cycling Gloves",Sports,2,22.00,20.00,44.00,8.80,35.20,completed,1
+286,1152,2024-03-28,2024,1,3,March,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,10,"Cycling Gloves",Sports,3,22.00,20.00,66.00,13.20,52.80,completed,1
+29,1005,2023-02-02,2023,1,2,February,Thursday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,10,"Cycling Gloves",Sports,1,22.00,0.00,22.00,0.00,22.00,completed,1
+295,1187,2024-04-17,2024,2,4,April,Wednesday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,10,"Cycling Gloves",Sports,3,22.00,0.00,66.00,0.00,66.00,completed,1
+305,1079,2024-04-23,2024,2,4,April,Tuesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,10,"Cycling Gloves",Sports,1,22.00,0.00,22.00,0.00,22.00,completed,1
+316,1087,2024-05-07,2024,2,5,May,Tuesday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,completed,1
+335,1062,2024-06-24,2024,2,6,June,Monday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,refunded,1
+344,1223,2024-06-27,2024,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,completed,1
+362,1224,2024-07-17,2024,3,7,July,Wednesday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,10,"Cycling Gloves",Sports,3,22.00,10.00,66.00,6.60,59.40,completed,1
+364,1018,2024-07-19,2024,3,7,July,Friday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,10,"Cycling Gloves",Sports,2,22.00,0.00,44.00,0.00,44.00,completed,1
+376,1240,2024-07-30,2024,3,7,July,Tuesday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,10,"Cycling Gloves",Sports,2,22.00,0.00,44.00,0.00,44.00,completed,1
+382,1245,2024-08-05,2024,3,8,August,Monday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,10,"Cycling Gloves",Sports,3,22.00,0.00,66.00,0.00,66.00,refunded,1
+408,1007,2024-09-08,2024,3,9,September,Sunday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,10,"Cycling Gloves",Sports,3,22.00,20.00,66.00,13.20,52.80,completed,1
+440,1204,2024-11-08,2024,4,11,November,Friday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,10,"Cycling Gloves",Sports,2,22.00,0.00,44.00,0.00,44.00,completed,1
+468,1109,2024-12-21,2024,4,12,December,Saturday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,10,"Cycling Gloves",Sports,1,22.00,0.00,22.00,0.00,22.00,completed,1
+50,1096,2023-03-12,2023,1,3,March,Sunday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,10,"Cycling Gloves",Sports,2,22.00,0.00,44.00,0.00,44.00,refunded,1
+78,1112,2023-04-29,2023,2,4,April,Saturday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,10,"Cycling Gloves",Sports,1,22.00,20.00,22.00,4.40,17.60,completed,1
+10,1235,2023-01-13,2023,1,1,January,Friday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,11,"SQL for Beginners",Books,1,29.99,5.00,29.99,1.50,28.49,pending,1
+104,1122,2023-06-01,2023,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,11,"SQL for Beginners",Books,3,29.99,0.00,89.97,0.00,89.97,completed,1
+107,1042,2023-06-06,2023,2,6,June,Tuesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,11,"SQL for Beginners",Books,2,29.99,10.00,59.98,6.00,53.98,completed,1
+125,1140,2023-07-14,2023,3,7,July,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,11,"SQL for Beginners",Books,3,29.99,0.00,89.97,0.00,89.97,completed,1
+128,1081,2023-07-16,2023,3,7,July,Sunday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,11,"SQL for Beginners",Books,2,29.99,20.00,59.98,12.00,47.98,completed,1
+152,1192,2023-08-18,2023,3,8,August,Friday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,11,"SQL for Beginners",Books,1,29.99,0.00,29.99,0.00,29.99,completed,1
+154,1031,2023-08-23,2023,3,8,August,Wednesday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,11,"SQL for Beginners",Books,3,29.99,10.00,89.97,9.00,80.97,completed,1
+156,1226,2023-08-25,2023,3,8,August,Friday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,11,"SQL for Beginners",Books,1,29.99,5.00,29.99,1.50,28.49,completed,1
+157,1097,2023-08-29,2023,3,8,August,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+174,1067,2023-09-11,2023,3,9,September,Monday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+179,1101,2023-09-25,2023,3,9,September,Monday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,11,"SQL for Beginners",Books,3,29.99,10.00,89.97,9.00,80.97,completed,1
+182,1118,2023-09-26,2023,3,9,September,Tuesday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,11,"SQL for Beginners",Books,1,29.99,15.00,29.99,4.50,25.49,completed,1
+186,1102,2023-09-29,2023,3,9,September,Friday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,11,"SQL for Beginners",Books,1,29.99,0.00,29.99,0.00,29.99,completed,1
+199,1108,2023-10-19,2023,4,10,October,Thursday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,11,"SQL for Beginners",Books,2,29.99,15.00,59.98,9.00,50.98,completed,1
+205,1202,2023-11-05,2023,4,11,November,Sunday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,refunded,1
+207,1123,2023-11-12,2023,4,11,November,Sunday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+210,1093,2023-11-18,2023,4,11,November,Saturday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,11,"SQL for Beginners",Books,1,29.99,0.00,29.99,0.00,29.99,completed,1
+211,1055,2023-11-28,2023,4,11,November,Tuesday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,11,"SQL for Beginners",Books,3,29.99,0.00,89.97,0.00,89.97,cancelled,0
+239,1025,2024-01-15,2024,1,1,January,Monday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,11,"SQL for Beginners",Books,1,29.99,5.00,29.99,1.50,28.49,completed,1
+242,1053,2024-01-18,2024,1,1,January,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,11,"SQL for Beginners",Books,2,29.99,20.00,59.98,12.00,47.98,completed,1
+248,1188,2024-01-24,2024,1,1,January,Wednesday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,11,"SQL for Beginners",Books,3,29.99,5.00,89.97,4.50,85.47,completed,1
+263,1039,2024-02-13,2024,1,2,February,Tuesday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,11,"SQL for Beginners",Books,2,29.99,5.00,59.98,3.00,56.98,completed,1
+280,1176,2024-03-06,2024,1,3,March,Wednesday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+287,1152,2024-03-28,2024,1,3,March,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,11,"SQL for Beginners",Books,1,29.99,20.00,29.99,6.00,23.99,completed,1
+307,1076,2024-04-29,2024,2,4,April,Monday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,11,"SQL for Beginners",Books,1,29.99,15.00,29.99,4.50,25.49,completed,1
+309,1195,2024-04-29,2024,2,4,April,Monday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+31,1121,2023-02-06,2023,1,2,February,Monday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,11,"SQL for Beginners",Books,1,29.99,0.00,29.99,0.00,29.99,completed,1
+315,1087,2024-05-07,2024,2,5,May,Tuesday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,11,"SQL for Beginners",Books,3,29.99,10.00,89.97,9.00,80.97,completed,1
+329,1139,2024-06-07,2024,2,6,June,Friday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,11,"SQL for Beginners",Books,1,29.99,10.00,29.99,3.00,26.99,completed,1
+354,1180,2024-07-13,2024,3,7,July,Saturday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,11,"SQL for Beginners",Books,1,29.99,5.00,29.99,1.50,28.49,refunded,1
+366,1018,2024-07-19,2024,3,7,July,Friday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+375,1105,2024-07-30,2024,3,7,July,Tuesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,11,"SQL for Beginners",Books,1,29.99,0.00,29.99,0.00,29.99,completed,1
+38,1203,2023-02-12,2023,1,2,February,Sunday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,11,"SQL for Beginners",Books,1,29.99,20.00,29.99,6.00,23.99,completed,1
+388,1222,2024-08-18,2024,3,8,August,Sunday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,11,"SQL for Beginners",Books,1,29.99,15.00,29.99,4.50,25.49,completed,1
+397,1210,2024-08-29,2024,3,8,August,Thursday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,11,"SQL for Beginners",Books,1,29.99,10.00,29.99,3.00,26.99,completed,1
+399,1165,2024-09-01,2024,3,9,September,Sunday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,11,"SQL for Beginners",Books,2,29.99,15.00,59.98,9.00,50.98,completed,1
+406,1242,2024-09-02,2024,3,9,September,Monday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,11,"SQL for Beginners",Books,3,29.99,5.00,89.97,4.50,85.47,refunded,1
+410,1151,2024-09-13,2024,3,9,September,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,11,"SQL for Beginners",Books,2,29.99,15.00,59.98,9.00,50.98,completed,1
+415,1052,2024-09-15,2024,3,9,September,Sunday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,11,"SQL for Beginners",Books,2,29.99,0.00,59.98,0.00,59.98,completed,1
+42,1233,2023-02-16,2023,1,2,February,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,11,"SQL for Beginners",Books,1,29.99,20.00,29.99,6.00,23.99,completed,1
+446,1144,2024-11-10,2024,4,11,November,Sunday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,11,"SQL for Beginners",Books,2,29.99,5.00,59.98,3.00,56.98,completed,1
+48,1238,2023-03-08,2023,1,3,March,Wednesday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,11,"SQL for Beginners",Books,2,29.99,15.00,59.98,9.00,50.98,completed,1
+57,1170,2023-03-21,2023,1,3,March,Tuesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,11,"SQL for Beginners",Books,3,29.99,5.00,89.97,4.50,85.47,completed,1
+79,1112,2023-04-29,2023,2,4,April,Saturday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,11,"SQL for Beginners",Books,2,29.99,20.00,59.98,12.00,47.98,completed,1
+112,1129,2023-06-13,2023,2,6,June,Tuesday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,12,"Air Purifier","Home & Garden",1,120.00,10.00,120.00,12.00,108.00,completed,1
+160,1155,2023-08-29,2023,3,8,August,Tuesday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,12,"Air Purifier","Home & Garden",1,120.00,5.00,120.00,6.00,114.00,completed,1
+162,1086,2023-08-31,2023,3,8,August,Thursday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,12,"Air Purifier","Home & Garden",1,120.00,10.00,120.00,12.00,108.00,completed,1
+173,1067,2023-09-11,2023,3,9,September,Monday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,12,"Air Purifier","Home & Garden",3,120.00,0.00,360.00,0.00,360.00,completed,1
+18,1199,2023-01-27,2023,1,1,January,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,12,"Air Purifier","Home & Garden",2,120.00,0.00,240.00,0.00,240.00,completed,1
+189,1047,2023-10-01,2023,4,10,October,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,12,"Air Purifier","Home & Garden",2,120.00,0.00,240.00,0.00,240.00,completed,1
+196,1074,2023-10-13,2023,4,10,October,Friday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,12,"Air Purifier","Home & Garden",3,120.00,5.00,360.00,18.00,342.00,cancelled,0
+198,1133,2023-10-13,2023,4,10,October,Friday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,12,"Air Purifier","Home & Garden",1,120.00,5.00,120.00,6.00,114.00,completed,1
+230,1107,2023-12-24,2023,4,12,December,Sunday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,12,"Air Purifier","Home & Garden",2,120.00,5.00,240.00,12.00,228.00,completed,1
+232,1131,2023-12-25,2023,4,12,December,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,12,"Air Purifier","Home & Garden",2,120.00,5.00,240.00,12.00,228.00,completed,1
+237,1231,2024-01-05,2024,1,1,January,Friday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,12,"Air Purifier","Home & Garden",3,120.00,5.00,360.00,18.00,342.00,completed,1
+269,1080,2024-02-17,2024,1,2,February,Saturday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,12,"Air Purifier","Home & Garden",2,120.00,0.00,240.00,0.00,240.00,completed,1
+290,1049,2024-04-09,2024,2,4,April,Tuesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,12,"Air Purifier","Home & Garden",1,120.00,5.00,120.00,6.00,114.00,completed,1
+3,1117,2023-01-04,2023,1,1,January,Wednesday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,12,"Air Purifier","Home & Garden",3,120.00,0.00,360.00,0.00,360.00,completed,1
+324,1050,2024-05-27,2024,2,5,May,Monday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,12,"Air Purifier","Home & Garden",1,120.00,20.00,120.00,24.00,96.00,completed,1
+327,1166,2024-05-31,2024,2,5,May,Friday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,12,"Air Purifier","Home & Garden",3,120.00,20.00,360.00,72.00,288.00,completed,1
+389,1100,2024-08-20,2024,3,8,August,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,12,"Air Purifier","Home & Garden",2,120.00,20.00,240.00,48.00,192.00,pending,1
+407,1242,2024-09-02,2024,3,9,September,Monday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,12,"Air Purifier","Home & Garden",2,120.00,5.00,240.00,12.00,228.00,refunded,1
+412,1027,2024-09-15,2024,3,9,September,Sunday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,12,"Air Purifier","Home & Garden",3,120.00,20.00,360.00,72.00,288.00,completed,1
+436,1247,2024-11-07,2024,4,11,November,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,12,"Air Purifier","Home & Garden",1,120.00,0.00,120.00,0.00,120.00,completed,1
+56,1104,2023-03-16,2023,1,3,March,Thursday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,12,"Air Purifier","Home & Garden",1,120.00,15.00,120.00,18.00,102.00,completed,1
+58,1022,2023-03-23,2023,1,3,March,Thursday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,12,"Air Purifier","Home & Garden",1,120.00,0.00,120.00,0.00,120.00,completed,1
+90,1184,2023-05-11,2023,2,5,May,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,12,"Air Purifier","Home & Garden",2,120.00,20.00,240.00,48.00,192.00,refunded,1
+99,1082,2023-05-24,2023,2,5,May,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,12,"Air Purifier","Home & Garden",2,120.00,0.00,240.00,0.00,240.00,completed,1
+114,1198,2023-06-17,2023,2,6,June,Saturday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,13,"Fitness Tracker",Electronics,3,99.99,0.00,299.97,0.00,299.97,completed,1
+131,1147,2023-07-16,2023,3,7,July,Sunday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,13,"Fitness Tracker",Electronics,3,99.99,10.00,299.97,30.00,269.97,completed,1
+155,1031,2023-08-23,2023,3,8,August,Wednesday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,13,"Fitness Tracker",Electronics,3,99.99,10.00,299.97,30.00,269.97,completed,1
+164,1057,2023-09-03,2023,3,9,September,Sunday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,13,"Fitness Tracker",Electronics,3,99.99,5.00,299.97,15.00,284.97,completed,1
+171,1028,2023-09-08,2023,3,9,September,Friday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,13,"Fitness Tracker",Electronics,1,99.99,15.00,99.99,15.00,84.99,completed,1
+214,1214,2023-11-29,2023,4,11,November,Wednesday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,13,"Fitness Tracker",Electronics,1,99.99,15.00,99.99,15.00,84.99,completed,1
+217,1189,2023-12-01,2023,4,12,December,Friday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,13,"Fitness Tracker",Electronics,3,99.99,10.00,299.97,30.00,269.97,completed,1
+219,1171,2023-12-10,2023,4,12,December,Sunday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,13,"Fitness Tracker",Electronics,3,99.99,20.00,299.97,59.99,239.98,completed,1
+223,1068,2023-12-13,2023,4,12,December,Wednesday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,13,"Fitness Tracker",Electronics,1,99.99,0.00,99.99,0.00,99.99,completed,1
+226,1015,2023-12-19,2023,4,12,December,Tuesday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,13,"Fitness Tracker",Electronics,1,99.99,5.00,99.99,5.00,94.99,refunded,1
+256,1023,2024-01-25,2024,1,1,January,Thursday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,13,"Fitness Tracker",Electronics,1,99.99,15.00,99.99,15.00,84.99,completed,1
+292,1225,2024-04-09,2024,2,4,April,Tuesday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,13,"Fitness Tracker",Electronics,2,99.99,5.00,199.98,10.00,189.98,completed,1
+304,1079,2024-04-23,2024,2,4,April,Tuesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,13,"Fitness Tracker",Electronics,1,99.99,0.00,99.99,0.00,99.99,completed,1
+330,1139,2024-06-07,2024,2,6,June,Friday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,13,"Fitness Tracker",Electronics,2,99.99,10.00,199.98,20.00,179.98,completed,1
+340,1110,2024-06-25,2024,2,6,June,Tuesday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,13,"Fitness Tracker",Electronics,2,99.99,20.00,199.98,40.00,159.98,completed,1
+360,1084,2024-07-17,2024,3,7,July,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,13,"Fitness Tracker",Electronics,2,99.99,0.00,199.98,0.00,199.98,completed,1
+361,1224,2024-07-17,2024,3,7,July,Wednesday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,13,"Fitness Tracker",Electronics,3,99.99,10.00,299.97,30.00,269.97,completed,1
+369,1163,2024-07-24,2024,3,7,July,Wednesday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,13,"Fitness Tracker",Electronics,1,99.99,0.00,99.99,0.00,99.99,completed,1
+385,1092,2024-08-16,2024,3,8,August,Friday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,13,"Fitness Tracker",Electronics,2,99.99,0.00,199.98,0.00,199.98,pending,1
+396,1210,2024-08-29,2024,3,8,August,Thursday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,13,"Fitness Tracker",Electronics,2,99.99,10.00,199.98,20.00,179.98,completed,1
+411,1151,2024-09-13,2024,3,9,September,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,13,"Fitness Tracker",Electronics,1,99.99,15.00,99.99,15.00,84.99,completed,1
+429,1134,2024-10-18,2024,4,10,October,Friday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,13,"Fitness Tracker",Electronics,3,99.99,10.00,299.97,30.00,269.97,cancelled,0
+430,1035,2024-10-20,2024,4,10,October,Sunday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,13,"Fitness Tracker",Electronics,1,99.99,0.00,99.99,0.00,99.99,cancelled,0
+435,1247,2024-11-07,2024,4,11,November,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,13,"Fitness Tracker",Electronics,2,99.99,0.00,199.98,0.00,199.98,completed,1
+439,1021,2024-11-08,2024,4,11,November,Friday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,13,"Fitness Tracker",Electronics,2,99.99,5.00,199.98,10.00,189.98,completed,1
+462,1159,2024-12-14,2024,4,12,December,Saturday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,13,"Fitness Tracker",Electronics,1,99.99,15.00,99.99,15.00,84.99,completed,1
+466,1234,2024-12-15,2024,4,12,December,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,13,"Fitness Tracker",Electronics,3,99.99,15.00,299.97,45.00,254.97,completed,1
+5,1178,2023-01-07,2023,1,1,January,Saturday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,13,"Fitness Tracker",Electronics,3,99.99,5.00,299.97,15.00,284.97,completed,1
+51,1096,2023-03-12,2023,1,3,March,Sunday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,13,"Fitness Tracker",Electronics,3,99.99,0.00,299.97,0.00,299.97,refunded,1
+52,1143,2023-03-13,2023,1,3,March,Monday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,13,"Fitness Tracker",Electronics,1,99.99,0.00,99.99,0.00,99.99,completed,1
+7,1046,2023-01-12,2023,1,1,January,Thursday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,13,"Fitness Tracker",Electronics,1,99.99,20.00,99.99,20.00,79.99,completed,1
+73,1056,2023-04-25,2023,2,4,April,Tuesday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,13,"Fitness Tracker",Electronics,2,99.99,5.00,199.98,10.00,189.98,completed,1
+88,1060,2023-05-09,2023,2,5,May,Tuesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,13,"Fitness Tracker",Electronics,2,99.99,15.00,199.98,30.00,169.98,completed,1
+91,1184,2023-05-11,2023,2,5,May,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,13,"Fitness Tracker",Electronics,3,99.99,20.00,299.97,59.99,239.98,refunded,1
+92,1164,2023-05-17,2023,2,5,May,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,13,"Fitness Tracker",Electronics,3,99.99,20.00,299.97,59.99,239.98,cancelled,0
+11,1220,2023-01-18,2023,1,1,January,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,14,"Winter Jacket",Clothing,1,149.00,5.00,149.00,7.45,141.55,completed,1
+118,1153,2023-06-23,2023,2,6,June,Friday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,14,"Winter Jacket",Clothing,2,149.00,5.00,298.00,14.90,283.10,completed,1
+138,1034,2023-08-06,2023,3,8,August,Sunday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,14,"Winter Jacket",Clothing,2,149.00,10.00,298.00,29.80,268.20,cancelled,0
+140,1228,2023-08-10,2023,3,8,August,Thursday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,14,"Winter Jacket",Clothing,2,149.00,5.00,298.00,14.90,283.10,cancelled,0
+150,1070,2023-08-14,2023,3,8,August,Monday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,14,"Winter Jacket",Clothing,3,149.00,0.00,447.00,0.00,447.00,completed,1
+169,1028,2023-09-08,2023,3,9,September,Friday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,14,"Winter Jacket",Clothing,1,149.00,15.00,149.00,22.35,126.65,completed,1
+187,1047,2023-10-01,2023,4,10,October,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,14,"Winter Jacket",Clothing,2,149.00,0.00,298.00,0.00,298.00,completed,1
+218,1128,2023-12-07,2023,4,12,December,Thursday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,14,"Winter Jacket",Clothing,1,149.00,5.00,149.00,7.45,141.55,completed,1
+221,1013,2023-12-11,2023,4,12,December,Monday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,14,"Winter Jacket",Clothing,1,149.00,0.00,149.00,0.00,149.00,completed,1
+26,1193,2023-02-01,2023,1,2,February,Wednesday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,14,"Winter Jacket",Clothing,3,149.00,5.00,447.00,22.35,424.65,completed,1
+281,1190,2024-03-07,2024,1,3,March,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,14,"Winter Jacket",Clothing,1,149.00,0.00,149.00,0.00,149.00,completed,1
+282,1078,2024-03-17,2024,1,3,March,Sunday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,14,"Winter Jacket",Clothing,2,149.00,10.00,298.00,29.80,268.20,completed,1
+288,1152,2024-03-28,2024,1,3,March,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,14,"Winter Jacket",Clothing,3,149.00,20.00,447.00,89.40,357.60,completed,1
+289,1049,2024-04-09,2024,2,4,April,Tuesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,14,"Winter Jacket",Clothing,1,149.00,5.00,149.00,7.45,141.55,completed,1
+328,1139,2024-06-07,2024,2,6,June,Friday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,14,"Winter Jacket",Clothing,2,149.00,10.00,298.00,29.80,268.20,completed,1
+331,1066,2024-06-13,2024,2,6,June,Thursday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,14,"Winter Jacket",Clothing,3,149.00,0.00,447.00,0.00,447.00,cancelled,0
+34,1137,2023-02-09,2023,1,2,February,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,14,"Winter Jacket",Clothing,2,149.00,0.00,298.00,0.00,298.00,completed,1
+346,1135,2024-07-03,2024,3,7,July,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,14,"Winter Jacket",Clothing,3,149.00,0.00,447.00,0.00,447.00,completed,1
+352,1085,2024-07-07,2024,3,7,July,Sunday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,14,"Winter Jacket",Clothing,2,149.00,0.00,298.00,0.00,298.00,completed,1
+353,1180,2024-07-13,2024,3,7,July,Saturday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,14,"Winter Jacket",Clothing,1,149.00,5.00,149.00,7.45,141.55,refunded,1
+402,1043,2024-09-02,2024,3,9,September,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,14,"Winter Jacket",Clothing,1,149.00,10.00,149.00,14.90,134.10,completed,1
+413,1027,2024-09-15,2024,3,9,September,Sunday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,14,"Winter Jacket",Clothing,3,149.00,20.00,447.00,89.40,357.60,completed,1
+442,1204,2024-11-08,2024,4,11,November,Friday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,14,"Winter Jacket",Clothing,3,149.00,0.00,447.00,0.00,447.00,completed,1
+452,1183,2024-11-26,2024,4,11,November,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,14,"Winter Jacket",Clothing,1,149.00,0.00,149.00,0.00,149.00,completed,1
+46,1238,2023-03-08,2023,1,3,March,Wednesday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,14,"Winter Jacket",Clothing,3,149.00,15.00,447.00,67.05,379.95,completed,1
+465,1011,2024-12-15,2024,4,12,December,Sunday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,14,"Winter Jacket",Clothing,3,149.00,10.00,447.00,44.70,402.30,completed,1
+63,1246,2023-04-12,2023,2,4,April,Wednesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,14,"Winter Jacket",Clothing,3,149.00,5.00,447.00,22.35,424.65,completed,1
+72,1161,2023-04-20,2023,2,4,April,Thursday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,14,"Winter Jacket",Clothing,1,149.00,5.00,149.00,7.45,141.55,completed,1
+76,1120,2023-04-25,2023,2,4,April,Tuesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,14,"Winter Jacket",Clothing,3,149.00,0.00,447.00,0.00,447.00,completed,1
+96,1003,2023-05-23,2023,2,5,May,Tuesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,14,"Winter Jacket",Clothing,1,149.00,20.00,149.00,29.80,119.20,completed,1
+111,1167,2023-06-12,2023,2,6,June,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,15,"Cotton T-Shirt",Clothing,2,24.99,15.00,49.98,7.50,42.48,cancelled,0
+15,1132,2023-01-25,2023,1,1,January,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,15,"Cotton T-Shirt",Clothing,1,24.99,10.00,24.99,2.50,22.49,completed,1
+165,1219,2023-09-04,2023,3,9,September,Monday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,15,"Cotton T-Shirt",Clothing,2,24.99,15.00,49.98,7.50,42.48,cancelled,0
+185,1089,2023-09-29,2023,3,9,September,Friday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,15,"Cotton T-Shirt",Clothing,3,24.99,5.00,74.97,3.75,71.22,cancelled,0
+206,1123,2023-11-12,2023,4,11,November,Sunday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,15,"Cotton T-Shirt",Clothing,1,24.99,0.00,24.99,0.00,24.99,completed,1
+21,1186,2023-01-28,2023,1,1,January,Saturday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,15,"Cotton T-Shirt",Clothing,1,24.99,10.00,24.99,2.50,22.49,completed,1
+213,1214,2023-11-29,2023,4,11,November,Wednesday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,15,"Cotton T-Shirt",Clothing,1,24.99,15.00,24.99,3.75,21.24,completed,1
+227,1015,2023-12-19,2023,4,12,December,Tuesday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,15,"Cotton T-Shirt",Clothing,3,24.99,5.00,74.97,3.75,71.22,refunded,1
+233,1131,2023-12-25,2023,4,12,December,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,15,"Cotton T-Shirt",Clothing,2,24.99,5.00,49.98,2.50,47.48,completed,1
+243,1200,2024-01-20,2024,1,1,January,Saturday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,15,"Cotton T-Shirt",Clothing,1,24.99,5.00,24.99,1.25,23.74,completed,1
+255,1023,2024-01-25,2024,1,1,January,Thursday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,15,"Cotton T-Shirt",Clothing,3,24.99,15.00,74.97,11.25,63.72,completed,1
+258,1044,2024-01-26,2024,1,1,January,Friday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,15,"Cotton T-Shirt",Clothing,2,24.99,15.00,49.98,7.50,42.48,refunded,1
+261,1179,2024-02-04,2024,1,2,February,Sunday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,15,"Cotton T-Shirt",Clothing,1,24.99,20.00,24.99,5.00,19.99,completed,1
+265,1032,2024-02-15,2024,1,2,February,Thursday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,15,"Cotton T-Shirt",Clothing,1,24.99,0.00,24.99,0.00,24.99,completed,1
+27,1193,2023-02-01,2023,1,2,February,Wednesday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,15,"Cotton T-Shirt",Clothing,1,24.99,5.00,24.99,1.25,23.74,completed,1
+320,1115,2024-05-15,2024,2,5,May,Wednesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,15,"Cotton T-Shirt",Clothing,1,24.99,0.00,24.99,0.00,24.99,completed,1
+333,1243,2024-06-19,2024,2,6,June,Wednesday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,15,"Cotton T-Shirt",Clothing,2,24.99,15.00,49.98,7.50,42.48,completed,1
+341,1054,2024-06-27,2024,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,15,"Cotton T-Shirt",Clothing,2,24.99,0.00,49.98,0.00,49.98,completed,1
+370,1163,2024-07-24,2024,3,7,July,Wednesday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,15,"Cotton T-Shirt",Clothing,2,24.99,0.00,49.98,0.00,49.98,completed,1
+379,1058,2024-08-03,2024,3,8,August,Saturday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,15,"Cotton T-Shirt",Clothing,3,24.99,0.00,74.97,0.00,74.97,completed,1
+391,1038,2024-08-21,2024,3,8,August,Wednesday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,15,"Cotton T-Shirt",Clothing,1,24.99,0.00,24.99,0.00,24.99,completed,1
+394,1201,2024-08-29,2024,3,8,August,Thursday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,15,"Cotton T-Shirt",Clothing,3,24.99,0.00,74.97,0.00,74.97,completed,1
+405,1216,2024-09-02,2024,3,9,September,Monday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,15,"Cotton T-Shirt",Clothing,2,24.99,20.00,49.98,10.00,39.98,completed,1
+414,1027,2024-09-15,2024,3,9,September,Sunday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,15,"Cotton T-Shirt",Clothing,1,24.99,20.00,24.99,5.00,19.99,completed,1
+423,1024,2024-10-12,2024,4,10,October,Saturday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,15,"Cotton T-Shirt",Clothing,3,24.99,0.00,74.97,0.00,74.97,completed,1
+428,1001,2024-10-16,2024,4,10,October,Wednesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,15,"Cotton T-Shirt",Clothing,3,24.99,0.00,74.97,0.00,74.97,completed,1
+454,1142,2024-12-04,2024,4,12,December,Wednesday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,15,"Cotton T-Shirt",Clothing,2,24.99,10.00,49.98,5.00,44.98,completed,1
+460,1146,2024-12-14,2024,4,12,December,Saturday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,15,"Cotton T-Shirt",Clothing,3,24.99,20.00,74.97,14.99,59.98,completed,1
+464,1011,2024-12-15,2024,4,12,December,Sunday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,15,"Cotton T-Shirt",Clothing,2,24.99,10.00,49.98,5.00,44.98,completed,1
+6,1178,2023-01-07,2023,1,1,January,Saturday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,15,"Cotton T-Shirt",Clothing,3,24.99,5.00,74.97,3.75,71.22,completed,1
+74,1056,2023-04-25,2023,2,4,April,Tuesday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,15,"Cotton T-Shirt",Clothing,2,24.99,5.00,49.98,2.50,47.48,completed,1
+101,1156,2023-05-31,2023,2,5,May,Wednesday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,2,"Running Shoes",Sports,2,65.00,0.00,130.00,0.00,130.00,completed,1
+105,1122,2023-06-01,2023,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+110,1126,2023-06-08,2023,2,6,June,Thursday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+113,1198,2023-06-17,2023,2,6,June,Saturday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+192,1010,2023-10-12,2023,4,10,October,Thursday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,2,"Running Shoes",Sports,1,65.00,0.00,65.00,0.00,65.00,completed,1
+200,1108,2023-10-19,2023,4,10,October,Thursday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,2,"Running Shoes",Sports,3,65.00,15.00,195.00,29.25,165.75,completed,1
+209,1145,2023-11-13,2023,4,11,November,Monday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,2,"Running Shoes",Sports,2,65.00,10.00,130.00,13.00,117.00,completed,1
+216,1189,2023-12-01,2023,4,12,December,Friday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,2,"Running Shoes",Sports,1,65.00,10.00,65.00,6.50,58.50,completed,1
+22,1186,2023-01-28,2023,1,1,January,Saturday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,2,"Running Shoes",Sports,2,65.00,10.00,130.00,13.00,117.00,completed,1
+231,1131,2023-12-25,2023,4,12,December,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,2,"Running Shoes",Sports,2,65.00,5.00,130.00,6.50,123.50,completed,1
+235,1215,2023-12-30,2023,4,12,December,Saturday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,2,"Running Shoes",Sports,1,65.00,10.00,65.00,6.50,58.50,completed,1
+245,1200,2024-01-20,2024,1,1,January,Saturday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,2,"Running Shoes",Sports,3,65.00,5.00,195.00,9.75,185.25,completed,1
+246,1029,2024-01-24,2024,1,1,January,Wednesday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,2,"Running Shoes",Sports,1,65.00,20.00,65.00,13.00,52.00,completed,1
+254,1014,2024-01-25,2024,1,1,January,Thursday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,2,"Running Shoes",Sports,3,65.00,10.00,195.00,19.50,175.50,completed,1
+267,1032,2024-02-15,2024,1,2,February,Thursday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,2,"Running Shoes",Sports,1,65.00,0.00,65.00,0.00,65.00,completed,1
+268,1080,2024-02-17,2024,1,2,February,Saturday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+273,1127,2024-02-27,2024,1,2,February,Tuesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+279,1174,2024-02-29,2024,1,2,February,Thursday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,2,"Running Shoes",Sports,1,65.00,10.00,65.00,6.50,58.50,completed,1
+296,1083,2024-04-18,2024,2,4,April,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+314,1236,2024-05-05,2024,2,5,May,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,2,"Running Shoes",Sports,2,65.00,10.00,130.00,13.00,117.00,cancelled,0
+334,1243,2024-06-19,2024,2,6,June,Wednesday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,2,"Running Shoes",Sports,3,65.00,15.00,195.00,29.25,165.75,completed,1
+338,1045,2024-06-25,2024,2,6,June,Tuesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,2,"Running Shoes",Sports,1,65.00,20.00,65.00,13.00,52.00,completed,1
+343,1054,2024-06-27,2024,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,2,"Running Shoes",Sports,1,65.00,0.00,65.00,0.00,65.00,completed,1
+349,1075,2024-07-06,2024,3,7,July,Saturday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+350,1085,2024-07-07,2024,3,7,July,Sunday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,2,"Running Shoes",Sports,1,65.00,0.00,65.00,0.00,65.00,completed,1
+358,1084,2024-07-17,2024,3,7,July,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,2,"Running Shoes",Sports,3,65.00,0.00,195.00,0.00,195.00,completed,1
+36,1137,2023-02-09,2023,1,2,February,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,2,"Running Shoes",Sports,2,65.00,0.00,130.00,0.00,130.00,completed,1
+371,1125,2024-07-27,2024,3,7,July,Saturday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,2,"Running Shoes",Sports,2,65.00,0.00,130.00,0.00,130.00,completed,1
+386,1222,2024-08-18,2024,3,8,August,Sunday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,2,"Running Shoes",Sports,1,65.00,15.00,65.00,9.75,55.25,completed,1
+421,1169,2024-10-03,2024,4,10,October,Thursday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,2,"Running Shoes",Sports,2,65.00,5.00,130.00,6.50,123.50,completed,1
+43,1237,2023-02-22,2023,1,2,February,Wednesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,2,"Running Shoes",Sports,2,65.00,15.00,130.00,19.50,110.50,completed,1
+448,1154,2024-11-10,2024,4,11,November,Sunday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,2,"Running Shoes",Sports,3,65.00,10.00,195.00,19.50,175.50,refunded,1
+45,1095,2023-02-28,2023,1,2,February,Tuesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,2,"Running Shoes",Sports,2,65.00,0.00,130.00,0.00,130.00,cancelled,0
+458,1162,2024-12-13,2024,4,12,December,Friday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,2,"Running Shoes",Sports,2,65.00,15.00,130.00,19.50,110.50,cancelled,0
+461,1146,2024-12-14,2024,4,12,December,Saturday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,2,"Running Shoes",Sports,3,65.00,20.00,195.00,39.00,156.00,completed,1
+473,1071,2024-12-25,2024,4,12,December,Wednesday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,2,"Running Shoes",Sports,2,65.00,5.00,130.00,6.50,123.50,completed,1
+474,1232,2024-12-26,2024,4,12,December,Thursday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,2,"Running Shoes",Sports,1,65.00,0.00,65.00,0.00,65.00,pending,1
+61,1004,2023-03-31,2023,1,3,March,Friday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,2,"Running Shoes",Sports,1,65.00,10.00,65.00,6.50,58.50,pending,1
+97,1003,2023-05-23,2023,2,5,May,Tuesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,2,"Running Shoes",Sports,3,65.00,20.00,195.00,39.00,156.00,completed,1
+100,1156,2023-05-31,2023,2,5,May,Wednesday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,3,"Python Programming Book",Books,2,34.99,0.00,69.98,0.00,69.98,completed,1
+12,1220,2023-01-18,2023,1,1,January,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,3,"Python Programming Book",Books,1,34.99,5.00,34.99,1.75,33.24,completed,1
+120,1148,2023-06-28,2023,2,6,June,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,3,"Python Programming Book",Books,3,34.99,0.00,104.97,0.00,104.97,refunded,1
+123,1077,2023-07-14,2023,3,7,July,Friday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,3,"Python Programming Book",Books,1,34.99,0.00,34.99,0.00,34.99,completed,1
+13,1191,2023-01-20,2023,1,1,January,Friday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,3,"Python Programming Book",Books,2,34.99,0.00,69.98,0.00,69.98,pending,1
+133,1008,2023-07-23,2023,3,7,July,Sunday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,3,"Python Programming Book",Books,1,34.99,10.00,34.99,3.50,31.49,pending,1
+161,1155,2023-08-29,2023,3,8,August,Tuesday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,3,"Python Programming Book",Books,2,34.99,5.00,69.98,3.50,66.48,completed,1
+168,1160,2023-09-07,2023,3,9,September,Thursday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,3,"Python Programming Book",Books,2,34.99,0.00,69.98,0.00,69.98,completed,1
+172,1098,2023-09-10,2023,3,9,September,Sunday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,3,"Python Programming Book",Books,1,34.99,0.00,34.99,0.00,34.99,pending,1
+190,1113,2023-10-06,2023,4,10,October,Friday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,3,"Python Programming Book",Books,1,34.99,0.00,34.99,0.00,34.99,completed,1
+193,1012,2023-10-12,2023,4,10,October,Thursday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,3,"Python Programming Book",Books,2,34.99,5.00,69.98,3.50,66.48,completed,1
+220,1171,2023-12-10,2023,4,12,December,Sunday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,3,"Python Programming Book",Books,1,34.99,20.00,34.99,7.00,27.99,completed,1
+222,1013,2023-12-11,2023,4,12,December,Monday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,3,"Python Programming Book",Books,3,34.99,0.00,104.97,0.00,104.97,completed,1
+224,1068,2023-12-13,2023,4,12,December,Wednesday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,3,"Python Programming Book",Books,3,34.99,0.00,104.97,0.00,104.97,completed,1
+225,1114,2023-12-18,2023,4,12,December,Monday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,3,"Python Programming Book",Books,1,34.99,5.00,34.99,1.75,33.24,completed,1
+229,1138,2023-12-20,2023,4,12,December,Wednesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,3,"Python Programming Book",Books,1,34.99,10.00,34.99,3.50,31.49,completed,1
+297,1083,2024-04-18,2024,2,4,April,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,3,"Python Programming Book",Books,3,34.99,0.00,104.97,0.00,104.97,completed,1
+306,1130,2024-04-26,2024,2,4,April,Friday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,3,"Python Programming Book",Books,3,34.99,5.00,104.97,5.25,99.72,completed,1
+339,1110,2024-06-25,2024,2,6,June,Tuesday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,3,"Python Programming Book",Books,3,34.99,20.00,104.97,20.99,83.98,completed,1
+355,1180,2024-07-13,2024,3,7,July,Saturday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,3,"Python Programming Book",Books,1,34.99,5.00,34.99,1.75,33.24,refunded,1
+357,1061,2024-07-16,2024,3,7,July,Tuesday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,3,"Python Programming Book",Books,1,34.99,5.00,34.99,1.75,33.24,completed,1
+359,1084,2024-07-17,2024,3,7,July,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,3,"Python Programming Book",Books,2,34.99,0.00,69.98,0.00,69.98,completed,1
+403,1043,2024-09-02,2024,3,9,September,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,3,"Python Programming Book",Books,3,34.99,10.00,104.97,10.50,94.47,completed,1
+418,1099,2024-09-26,2024,3,9,September,Thursday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,3,"Python Programming Book",Books,2,34.99,10.00,69.98,7.00,62.98,completed,1
+426,1207,2024-10-12,2024,4,10,October,Saturday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,3,"Python Programming Book",Books,3,34.99,0.00,104.97,0.00,104.97,cancelled,0
+427,1001,2024-10-16,2024,4,10,October,Wednesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,3,"Python Programming Book",Books,1,34.99,0.00,34.99,0.00,34.99,completed,1
+444,1111,2024-11-10,2024,4,11,November,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,3,"Python Programming Book",Books,1,34.99,0.00,34.99,0.00,34.99,completed,1
+451,1183,2024-11-26,2024,4,11,November,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,3,"Python Programming Book",Books,1,34.99,0.00,34.99,0.00,34.99,completed,1
+463,1159,2024-12-14,2024,4,12,December,Saturday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,3,"Python Programming Book",Books,1,34.99,15.00,34.99,5.25,29.74,completed,1
+64,1246,2023-04-12,2023,2,4,April,Wednesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,3,"Python Programming Book",Books,2,34.99,5.00,69.98,3.50,66.48,completed,1
+69,1051,2023-04-19,2023,2,4,April,Wednesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,3,"Python Programming Book",Books,3,34.99,20.00,104.97,20.99,83.98,completed,1
+93,1040,2023-05-22,2023,2,5,May,Monday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,3,"Python Programming Book",Books,2,34.99,15.00,69.98,10.50,59.48,cancelled,0
+94,1172,2023-05-22,2023,2,5,May,Monday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,3,"Python Programming Book",Books,3,34.99,5.00,104.97,5.25,99.72,completed,1
+1,1249,2023-01-03,2023,1,1,January,Tuesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,4,"Coffee Maker","Home & Garden",2,49.99,15.00,99.98,15.00,84.98,completed,1
+121,1148,2023-06-28,2023,2,6,June,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,4,"Coffee Maker","Home & Garden",2,49.99,0.00,99.98,0.00,99.98,refunded,1
+126,1140,2023-07-14,2023,3,7,July,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,4,"Coffee Maker","Home & Garden",1,49.99,0.00,49.99,0.00,49.99,completed,1
+139,1106,2023-08-07,2023,3,8,August,Monday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,4,"Coffee Maker","Home & Garden",2,49.99,5.00,99.98,5.00,94.98,cancelled,0
+141,1006,2023-08-12,2023,3,8,August,Saturday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,20.00,99.98,20.00,79.98,completed,1
+204,1244,2023-11-01,2023,4,11,November,Wednesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,10.00,99.98,10.00,89.98,pending,1
+215,1189,2023-12-01,2023,4,12,December,Friday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,4,"Coffee Maker","Home & Garden",3,49.99,10.00,149.97,15.00,134.97,completed,1
+259,1044,2024-01-26,2024,1,1,January,Friday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,15.00,99.98,15.00,84.98,refunded,1
+285,1141,2024-03-22,2024,1,3,March,Friday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,4,"Coffee Maker","Home & Garden",3,49.99,20.00,149.97,29.99,119.98,completed,1
+300,1196,2024-04-21,2024,2,4,April,Sunday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,4,"Coffee Maker","Home & Garden",2,49.99,10.00,99.98,10.00,89.98,completed,1
+318,1059,2024-05-12,2024,2,5,May,Sunday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,20.00,99.98,20.00,79.98,completed,1
+321,1115,2024-05-15,2024,2,5,May,Wednesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,4,"Coffee Maker","Home & Garden",1,49.99,0.00,49.99,0.00,49.99,completed,1
+348,1209,2024-07-05,2024,3,7,July,Friday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,15.00,99.98,15.00,84.98,cancelled,0
+356,1061,2024-07-16,2024,3,7,July,Tuesday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,4,"Coffee Maker","Home & Garden",3,49.99,5.00,149.97,7.50,142.47,completed,1
+419,1099,2024-09-26,2024,3,9,September,Thursday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,10.00,99.98,10.00,89.98,completed,1
+420,1194,2024-09-28,2024,3,9,September,Saturday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,4,"Coffee Maker","Home & Garden",1,49.99,5.00,49.99,2.50,47.49,completed,1
+437,1021,2024-11-08,2024,4,11,November,Friday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,4,"Coffee Maker","Home & Garden",2,49.99,5.00,99.98,5.00,94.98,completed,1
+445,1111,2024-11-10,2024,4,11,November,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,4,"Coffee Maker","Home & Garden",2,49.99,0.00,99.98,0.00,99.98,completed,1
+459,1090,2024-12-14,2024,4,12,December,Saturday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,4,"Coffee Maker","Home & Garden",1,49.99,15.00,49.99,7.50,42.49,pending,1
+49,1072,2023-03-11,2023,1,3,March,Saturday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,4,"Coffee Maker","Home & Garden",3,49.99,10.00,149.97,15.00,134.97,completed,1
+71,1051,2023-04-19,2023,2,4,April,Wednesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,4,"Coffee Maker","Home & Garden",3,49.99,20.00,149.97,29.99,119.98,completed,1
+8,1046,2023-01-12,2023,1,1,January,Thursday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,4,"Coffee Maker","Home & Garden",3,49.99,20.00,149.97,29.99,119.98,completed,1
+87,1060,2023-05-09,2023,2,5,May,Tuesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,4,"Coffee Maker","Home & Garden",1,49.99,15.00,49.99,7.50,42.49,completed,1
+116,1153,2023-06-23,2023,2,6,June,Friday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,5,"Yoga Mat",Sports,2,28.50,5.00,57.00,2.85,54.15,completed,1
+129,1081,2023-07-16,2023,3,7,July,Sunday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,5,"Yoga Mat",Sports,2,28.50,20.00,57.00,11.40,45.60,completed,1
+137,1063,2023-08-05,2023,3,8,August,Saturday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,5,"Yoga Mat",Sports,2,28.50,5.00,57.00,2.85,54.15,pending,1
+144,1030,2023-08-13,2023,3,8,August,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,5,"Yoga Mat",Sports,1,28.50,0.00,28.50,0.00,28.50,completed,1
+146,1181,2023-08-13,2023,3,8,August,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,5,"Yoga Mat",Sports,3,28.50,10.00,85.50,8.55,76.95,completed,1
+151,1070,2023-08-14,2023,3,8,August,Monday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,5,"Yoga Mat",Sports,2,28.50,0.00,57.00,0.00,57.00,completed,1
+153,1031,2023-08-23,2023,3,8,August,Wednesday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,5,"Yoga Mat",Sports,3,28.50,10.00,85.50,8.55,76.95,completed,1
+159,1097,2023-08-29,2023,3,8,August,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,5,"Yoga Mat",Sports,3,28.50,0.00,85.50,0.00,85.50,completed,1
+16,1132,2023-01-25,2023,1,1,January,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,5,"Yoga Mat",Sports,2,28.50,10.00,57.00,5.70,51.30,completed,1
+167,1160,2023-09-07,2023,3,9,September,Thursday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,5,"Yoga Mat",Sports,2,28.50,0.00,57.00,0.00,57.00,completed,1
+177,1168,2023-09-11,2023,3,9,September,Monday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,5,"Yoga Mat",Sports,1,28.50,20.00,28.50,5.70,22.80,completed,1
+191,1002,2023-10-09,2023,4,10,October,Monday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,5,"Yoga Mat",Sports,2,28.50,5.00,57.00,2.85,54.15,completed,1
+2,1117,2023-01-04,2023,1,1,January,Wednesday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,5,"Yoga Mat",Sports,1,28.50,0.00,28.50,0.00,28.50,completed,1
+201,1150,2023-10-21,2023,4,10,October,Saturday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,5,"Yoga Mat",Sports,3,28.50,10.00,85.50,8.55,76.95,completed,1
+25,1182,2023-01-30,2023,1,1,January,Monday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,5,"Yoga Mat",Sports,1,28.50,10.00,28.50,2.85,25.65,completed,1
+264,1039,2024-02-13,2024,1,2,February,Tuesday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,5,"Yoga Mat",Sports,1,28.50,5.00,28.50,1.43,27.08,completed,1
+277,1174,2024-02-29,2024,1,2,February,Thursday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,5,"Yoga Mat",Sports,3,28.50,10.00,85.50,8.55,76.95,completed,1
+291,1049,2024-04-09,2024,2,4,April,Tuesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,5,"Yoga Mat",Sports,2,28.50,5.00,57.00,2.85,54.15,completed,1
+293,1225,2024-04-09,2024,2,4,April,Tuesday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,5,"Yoga Mat",Sports,1,28.50,5.00,28.50,1.43,27.08,completed,1
+312,1157,2024-05-01,2024,2,5,May,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,5,"Yoga Mat",Sports,1,28.50,0.00,28.50,0.00,28.50,refunded,1
+322,1206,2024-05-16,2024,2,5,May,Thursday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,5,"Yoga Mat",Sports,1,28.50,10.00,28.50,2.85,25.65,completed,1
+33,1121,2023-02-06,2023,1,2,February,Monday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,5,"Yoga Mat",Sports,2,28.50,0.00,57.00,0.00,57.00,completed,1
+337,1045,2024-06-25,2024,2,6,June,Tuesday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,5,"Yoga Mat",Sports,2,28.50,20.00,57.00,11.40,45.60,completed,1
+347,1135,2024-07-03,2024,3,7,July,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,5,"Yoga Mat",Sports,2,28.50,0.00,57.00,0.00,57.00,completed,1
+368,1163,2024-07-24,2024,3,7,July,Wednesday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,5,"Yoga Mat",Sports,3,28.50,0.00,85.50,0.00,85.50,completed,1
+372,1125,2024-07-27,2024,3,7,July,Saturday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,5,"Yoga Mat",Sports,1,28.50,0.00,28.50,0.00,28.50,completed,1
+401,1165,2024-09-01,2024,3,9,September,Sunday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,5,"Yoga Mat",Sports,3,28.50,15.00,85.50,12.83,72.68,completed,1
+409,1197,2024-09-12,2024,3,9,September,Thursday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,5,"Yoga Mat",Sports,3,28.50,0.00,85.50,0.00,85.50,refunded,1
+41,1233,2023-02-16,2023,1,2,February,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,5,"Yoga Mat",Sports,3,28.50,20.00,85.50,17.10,68.40,completed,1
+438,1021,2024-11-08,2024,4,11,November,Friday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,5,"Yoga Mat",Sports,1,28.50,5.00,28.50,1.43,27.08,completed,1
+449,1026,2024-11-17,2024,4,11,November,Sunday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,5,"Yoga Mat",Sports,1,28.50,0.00,28.50,0.00,28.50,completed,1
+450,1065,2024-11-18,2024,4,11,November,Monday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,5,"Yoga Mat",Sports,2,28.50,15.00,57.00,8.55,48.45,completed,1
+469,1020,2024-12-22,2024,4,12,December,Sunday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,5,"Yoga Mat",Sports,1,28.50,0.00,28.50,0.00,28.50,completed,1
+66,1230,2023-04-13,2023,2,4,April,Thursday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,5,"Yoga Mat",Sports,2,28.50,5.00,57.00,2.85,54.15,completed,1
+75,1120,2023-04-25,2023,2,4,April,Tuesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,5,"Yoga Mat",Sports,2,28.50,0.00,57.00,0.00,57.00,completed,1
+106,1042,2023-06-06,2023,2,6,June,Tuesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,6,"Smartphone Case",Electronics,3,15.99,10.00,47.97,4.80,43.17,completed,1
+119,1248,2023-06-27,2023,2,6,June,Tuesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,6,"Smartphone Case",Electronics,2,15.99,0.00,31.98,0.00,31.98,pending,1
+134,1124,2023-08-04,2023,3,8,August,Friday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,6,"Smartphone Case",Electronics,2,15.99,0.00,31.98,0.00,31.98,completed,1
+142,1030,2023-08-13,2023,3,8,August,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,6,"Smartphone Case",Electronics,3,15.99,0.00,47.97,0.00,47.97,completed,1
+170,1028,2023-09-08,2023,3,9,September,Friday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,6,"Smartphone Case",Electronics,2,15.99,15.00,31.98,4.80,27.18,completed,1
+178,1101,2023-09-25,2023,3,9,September,Monday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,6,"Smartphone Case",Electronics,3,15.99,10.00,47.97,4.80,43.17,completed,1
+208,1123,2023-11-12,2023,4,11,November,Sunday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,6,"Smartphone Case",Electronics,2,15.99,0.00,31.98,0.00,31.98,completed,1
+23,1182,2023-01-30,2023,1,1,January,Monday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,6,"Smartphone Case",Electronics,1,15.99,10.00,15.99,1.60,14.39,completed,1
+249,1213,2024-01-24,2024,1,1,January,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,6,"Smartphone Case",Electronics,3,15.99,0.00,47.97,0.00,47.97,completed,1
+262,1185,2024-02-08,2024,1,2,February,Thursday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,6,"Smartphone Case",Electronics,2,15.99,0.00,31.98,0.00,31.98,pending,1
+275,1127,2024-02-27,2024,1,2,February,Tuesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,6,"Smartphone Case",Electronics,3,15.99,0.00,47.97,0.00,47.97,completed,1
+278,1174,2024-02-29,2024,1,2,February,Thursday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,6,"Smartphone Case",Electronics,3,15.99,10.00,47.97,4.80,43.17,completed,1
+294,1225,2024-04-09,2024,2,4,April,Tuesday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,6,"Smartphone Case",Electronics,1,15.99,5.00,15.99,0.80,15.19,completed,1
+302,1175,2024-04-22,2024,2,4,April,Monday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,6,"Smartphone Case",Electronics,2,15.99,0.00,31.98,0.00,31.98,completed,1
+303,1079,2024-04-23,2024,2,4,April,Tuesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,6,"Smartphone Case",Electronics,3,15.99,0.00,47.97,0.00,47.97,completed,1
+313,1094,2024-05-03,2024,2,5,May,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,6,"Smartphone Case",Electronics,2,15.99,20.00,31.98,6.40,25.58,cancelled,0
+323,1206,2024-05-16,2024,2,5,May,Thursday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,6,"Smartphone Case",Electronics,1,15.99,10.00,15.99,1.60,14.39,completed,1
+342,1054,2024-06-27,2024,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,6,"Smartphone Case",Electronics,1,15.99,0.00,15.99,0.00,15.99,completed,1
+365,1018,2024-07-19,2024,3,7,July,Friday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,6,"Smartphone Case",Electronics,1,15.99,0.00,15.99,0.00,15.99,completed,1
+37,1203,2023-02-12,2023,1,2,February,Sunday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,6,"Smartphone Case",Electronics,1,15.99,20.00,15.99,3.20,12.79,completed,1
+374,1037,2024-07-28,2024,3,7,July,Sunday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,6,"Smartphone Case",Electronics,2,15.99,5.00,31.98,1.60,30.38,pending,1
+39,1016,2023-02-14,2023,1,2,February,Tuesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,6,"Smartphone Case",Electronics,2,15.99,20.00,31.98,6.40,25.58,cancelled,0
+392,1229,2024-08-26,2024,3,8,August,Monday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,6,"Smartphone Case",Electronics,2,15.99,0.00,31.98,0.00,31.98,cancelled,0
+398,1250,2024-08-31,2024,3,8,August,Saturday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,6,"Smartphone Case",Electronics,1,15.99,5.00,15.99,0.80,15.19,cancelled,0
+404,1043,2024-09-02,2024,3,9,September,Monday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,6,"Smartphone Case",Electronics,3,15.99,10.00,47.97,4.80,43.17,completed,1
+44,1237,2023-02-22,2023,1,2,February,Wednesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,6,"Smartphone Case",Electronics,2,15.99,15.00,31.98,4.80,27.18,completed,1
+457,1173,2024-12-11,2024,4,12,December,Wednesday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,6,"Smartphone Case",Electronics,2,15.99,5.00,31.98,1.60,30.38,completed,1
+82,1227,2023-05-03,2023,2,5,May,Wednesday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,6,"Smartphone Case",Electronics,3,15.99,0.00,47.97,0.00,47.97,pending,1
+85,1017,2023-05-08,2023,2,5,May,Monday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,6,"Smartphone Case",Electronics,1,15.99,0.00,15.99,0.00,15.99,completed,1
+95,1003,2023-05-23,2023,2,5,May,Tuesday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,6,"Smartphone Case",Electronics,2,15.99,20.00,31.98,6.40,25.58,completed,1
+103,1122,2023-06-01,2023,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,7,"Data Science Handbook",Books,2,42.00,0.00,84.00,0.00,84.00,completed,1
+136,1033,2023-08-05,2023,3,8,August,Saturday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,7,"Data Science Handbook",Books,3,42.00,10.00,126.00,12.60,113.40,pending,1
+145,1181,2023-08-13,2023,3,8,August,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,7,"Data Science Handbook",Books,3,42.00,10.00,126.00,12.60,113.40,completed,1
+163,1086,2023-08-31,2023,3,8,August,Thursday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,7,"Data Science Handbook",Books,1,42.00,10.00,42.00,4.20,37.80,completed,1
+175,1067,2023-09-11,2023,3,9,September,Monday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,7,"Data Science Handbook",Books,1,42.00,0.00,42.00,0.00,42.00,completed,1
+181,1136,2023-09-25,2023,3,9,September,Monday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,7,"Data Science Handbook",Books,2,42.00,0.00,84.00,0.00,84.00,completed,1
+19,1199,2023-01-27,2023,1,1,January,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,7,"Data Science Handbook",Books,3,42.00,0.00,126.00,0.00,126.00,completed,1
+194,1012,2023-10-12,2023,4,10,October,Thursday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,7,"Data Science Handbook",Books,3,42.00,5.00,126.00,6.30,119.70,completed,1
+241,1053,2024-01-18,2024,1,1,January,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,7,"Data Science Handbook",Books,1,42.00,20.00,42.00,8.40,33.60,completed,1
+250,1213,2024-01-24,2024,1,1,January,Wednesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,7,"Data Science Handbook",Books,2,42.00,0.00,84.00,0.00,84.00,completed,1
+253,1014,2024-01-25,2024,1,1,January,Thursday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,7,"Data Science Handbook",Books,1,42.00,10.00,42.00,4.20,37.80,completed,1
+260,1179,2024-02-04,2024,1,2,February,Sunday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,7,"Data Science Handbook",Books,3,42.00,20.00,126.00,25.20,100.80,completed,1
+274,1127,2024-02-27,2024,1,2,February,Tuesday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,7,"Data Science Handbook",Books,2,42.00,0.00,84.00,0.00,84.00,completed,1
+301,1196,2024-04-21,2024,2,4,April,Sunday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,7,"Data Science Handbook",Books,2,42.00,10.00,84.00,8.40,75.60,completed,1
+311,1157,2024-05-01,2024,2,5,May,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,7,"Data Science Handbook",Books,3,42.00,0.00,126.00,0.00,126.00,refunded,1
+325,1050,2024-05-27,2024,2,5,May,Monday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,7,"Data Science Handbook",Books,1,42.00,20.00,42.00,8.40,33.60,completed,1
+332,1217,2024-06-13,2024,2,6,June,Thursday,1,James,Smith,james.smith@email.com,"New york",USA,Premium,7,"Data Science Handbook",Books,1,42.00,0.00,42.00,0.00,42.00,completed,1
+336,1062,2024-06-24,2024,2,6,June,Monday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,7,"Data Science Handbook",Books,3,42.00,10.00,126.00,12.60,113.40,refunded,1
+345,1223,2024-06-27,2024,2,6,June,Thursday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,7,"Data Science Handbook",Books,1,42.00,10.00,42.00,4.20,37.80,completed,1
+378,1240,2024-07-30,2024,3,7,July,Tuesday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,7,"Data Science Handbook",Books,3,42.00,0.00,126.00,0.00,126.00,completed,1
+393,1201,2024-08-29,2024,3,8,August,Thursday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,7,"Data Science Handbook",Books,2,42.00,0.00,84.00,0.00,84.00,completed,1
+400,1165,2024-09-01,2024,3,9,September,Sunday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,7,"Data Science Handbook",Books,3,42.00,15.00,126.00,18.90,107.10,completed,1
+416,1052,2024-09-15,2024,3,9,September,Sunday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,7,"Data Science Handbook",Books,1,42.00,0.00,42.00,0.00,42.00,completed,1
+433,1103,2024-10-22,2024,4,10,October,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,7,"Data Science Handbook",Books,3,42.00,15.00,126.00,18.90,107.10,completed,1
+443,1111,2024-11-10,2024,4,11,November,Sunday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,7,"Data Science Handbook",Books,3,42.00,0.00,126.00,0.00,126.00,completed,1
+453,1183,2024-11-26,2024,4,11,November,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,7,"Data Science Handbook",Books,2,42.00,0.00,84.00,0.00,84.00,completed,1
+472,1071,2024-12-25,2024,4,12,December,Wednesday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,7,"Data Science Handbook",Books,1,42.00,5.00,42.00,2.10,39.90,completed,1
+475,1064,2024-12-31,2024,4,12,December,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,7,"Data Science Handbook",Books,3,42.00,10.00,126.00,12.60,113.40,completed,1
+67,1230,2023-04-13,2023,2,4,April,Thursday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,7,"Data Science Handbook",Books,1,42.00,5.00,42.00,2.10,39.90,completed,1
+70,1051,2023-04-19,2023,2,4,April,Wednesday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,7,"Data Science Handbook",Books,3,42.00,20.00,126.00,25.20,100.80,completed,1
+83,1017,2023-05-08,2023,2,5,May,Monday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,7,"Data Science Handbook",Books,1,42.00,0.00,42.00,0.00,42.00,completed,1
+86,1060,2023-05-09,2023,2,5,May,Tuesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,7,"Data Science Handbook",Books,2,42.00,15.00,84.00,12.60,71.40,completed,1
+9,1046,2023-01-12,2023,1,1,January,Thursday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,7,"Data Science Handbook",Books,1,42.00,20.00,42.00,8.40,33.60,completed,1
+102,1156,2023-05-31,2023,2,5,May,Wednesday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,8,"Desk Lamp","Home & Garden",3,32.00,0.00,96.00,0.00,96.00,completed,1
+115,1088,2023-06-18,2023,2,6,June,Sunday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+127,1140,2023-07-14,2023,3,7,July,Friday,19,Zoe,Harris,zoe.harris@email.com,Melbourne,AUSTRALIA,Premium,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+132,1147,2023-07-16,2023,3,7,July,Sunday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,8,"Desk Lamp","Home & Garden",3,32.00,10.00,96.00,9.60,86.40,completed,1
+149,1070,2023-08-14,2023,3,8,August,Monday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+17,1132,2023-01-25,2023,1,1,January,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,8,"Desk Lamp","Home & Garden",3,32.00,10.00,96.00,9.60,86.40,completed,1
+188,1047,2023-10-01,2023,4,10,October,Sunday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,8,"Desk Lamp","Home & Garden",3,32.00,0.00,96.00,0.00,96.00,completed,1
+195,1012,2023-10-12,2023,4,10,October,Thursday,4,Sophie,Martin,sophie.martin@email.com,London,UK,Premium,8,"Desk Lamp","Home & Garden",3,32.00,5.00,96.00,4.80,91.20,completed,1
+20,1186,2023-01-28,2023,1,1,January,Saturday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,8,"Desk Lamp","Home & Garden",3,32.00,10.00,96.00,9.60,86.40,completed,1
+203,1048,2023-10-28,2023,4,10,October,Saturday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,8,"Desk Lamp","Home & Garden",2,32.00,0.00,64.00,0.00,64.00,completed,1
+236,1215,2023-12-30,2023,4,12,December,Saturday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,8,"Desk Lamp","Home & Garden",3,32.00,10.00,96.00,9.60,86.40,completed,1
+244,1200,2024-01-20,2024,1,1,January,Saturday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,8,"Desk Lamp","Home & Garden",2,32.00,5.00,64.00,3.20,60.80,completed,1
+266,1032,2024-02-15,2024,1,2,February,Thursday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+308,1195,2024-04-29,2024,2,4,April,Monday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,8,"Desk Lamp","Home & Garden",2,32.00,0.00,64.00,0.00,64.00,completed,1
+310,1157,2024-05-01,2024,2,5,May,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,refunded,1
+317,1087,2024-05-07,2024,2,5,May,Tuesday,16,Lucas,Anderson,lucas.anderson@email.com,"Sao paulo",BRAZIL,Basic,8,"Desk Lamp","Home & Garden",2,32.00,10.00,64.00,6.40,57.60,completed,1
+32,1121,2023-02-06,2023,1,2,February,Monday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,8,"Desk Lamp","Home & Garden",3,32.00,0.00,96.00,0.00,96.00,completed,1
+35,1137,2023-02-09,2023,1,2,February,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,8,"Desk Lamp","Home & Garden",2,32.00,0.00,64.00,0.00,64.00,completed,1
+363,1224,2024-07-17,2024,3,7,July,Wednesday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,8,"Desk Lamp","Home & Garden",3,32.00,10.00,96.00,9.60,86.40,completed,1
+367,1069,2024-07-21,2024,3,7,July,Sunday,23,Sara,Lindqvist,cliente_23@sindatos.com,Stockholm,SWEDEN,Basic,8,"Desk Lamp","Home & Garden",2,32.00,0.00,64.00,0.00,64.00,completed,1
+373,1125,2024-07-27,2024,3,7,July,Saturday,12,Noah,Wilson,noah.wilson@email.com,Seattle,USA,Standard,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+381,1058,2024-08-03,2024,3,8,August,Saturday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+383,1245,2024-08-05,2024,3,8,August,Monday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,refunded,1
+384,1239,2024-08-13,2024,3,8,August,Tuesday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+4,1117,2023-01-04,2023,1,1,January,Wednesday,2,Maria,Garcia,cliente_2@sindatos.com,"Los angeles",USA,Standard,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+40,1233,2023-02-16,2023,1,2,February,Thursday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,8,"Desk Lamp","Home & Garden",2,32.00,20.00,64.00,12.80,51.20,completed,1
+431,1103,2024-10-22,2024,4,10,October,Tuesday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,8,"Desk Lamp","Home & Garden",2,32.00,15.00,64.00,9.60,54.40,completed,1
+434,1205,2024-10-25,2024,4,10,October,Friday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,8,"Desk Lamp","Home & Garden",3,32.00,0.00,96.00,0.00,96.00,completed,1
+441,1204,2024-11-08,2024,4,11,November,Friday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,8,"Desk Lamp","Home & Garden",2,32.00,0.00,64.00,0.00,64.00,completed,1
+467,1109,2024-12-21,2024,4,12,December,Saturday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+55,1104,2023-03-16,2023,1,3,March,Thursday,11,Fatima,Al-hassan,fatima.alhassan@email.com,Dubai,UAE,Premium,8,"Desk Lamp","Home & Garden",2,32.00,15.00,64.00,9.60,54.40,completed,1
+62,1041,2023-04-04,2023,2,4,April,Tuesday,14,Ethan,Taylor,ethan.taylor@email.com,Paris,FRANCE,Premium,8,"Desk Lamp","Home & Garden",1,32.00,0.00,32.00,0.00,32.00,completed,1
+65,1246,2023-04-12,2023,2,4,April,Wednesday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,8,"Desk Lamp","Home & Garden",3,32.00,5.00,96.00,4.80,91.20,completed,1
+68,1230,2023-04-13,2023,2,4,April,Thursday,10,Oliver,Brown,oliver.brown@email.com,Sydney,AUSTRALIA,Standard,8,"Desk Lamp","Home & Garden",2,32.00,5.00,64.00,3.20,60.80,completed,1
+80,1112,2023-04-29,2023,2,4,April,Saturday,9,Yuki,Tanaka,cliente_9@sindatos.com,Tokyo,JAPAN,Basic,8,"Desk Lamp","Home & Garden",3,32.00,20.00,96.00,19.20,76.80,completed,1
+81,1241,2023-05-02,2023,2,5,May,Tuesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,8,"Desk Lamp","Home & Garden",2,32.00,10.00,64.00,6.40,57.60,pending,1
+84,1017,2023-05-08,2023,2,5,May,Monday,6,Aisha,Patel,aisha.patel@email.com,Houston,USA,Basic,8,"Desk Lamp","Home & Garden",3,32.00,0.00,96.00,0.00,96.00,completed,1
+89,1184,2023-05-11,2023,2,5,May,Thursday,15,Amara,Diallo,amara.diallo@email.com,Nairobi,KENYA,Standard,8,"Desk Lamp","Home & Garden",2,32.00,20.00,64.00,12.80,51.20,refunded,1
+166,1160,2023-09-07,2023,3,9,September,Thursday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,9,"Bluetooth Speaker",Electronics,2,55.00,0.00,110.00,0.00,110.00,completed,1
+238,1019,2024-01-06,2024,1,1,January,Saturday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,9,"Bluetooth Speaker",Electronics,2,55.00,5.00,110.00,5.50,104.50,pending,1
+257,1023,2024-01-25,2024,1,1,January,Thursday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,9,"Bluetooth Speaker",Electronics,2,55.00,15.00,110.00,16.50,93.50,completed,1
+270,1221,2024-02-19,2024,1,2,February,Monday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,9,"Bluetooth Speaker",Electronics,1,55.00,5.00,55.00,2.75,52.25,completed,1
+272,1218,2024-02-21,2024,1,2,February,Wednesday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,9,"Bluetooth Speaker",Electronics,2,55.00,20.00,110.00,22.00,88.00,cancelled,0
+283,1078,2024-03-17,2024,1,3,March,Sunday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,9,"Bluetooth Speaker",Electronics,1,55.00,10.00,55.00,5.50,49.50,completed,1
+299,1196,2024-04-21,2024,2,4,April,Sunday,7,Luca,Rossi,luca.rossi@email.com,Rome,ITALY,Standard,9,"Bluetooth Speaker",Electronics,2,55.00,10.00,110.00,11.00,99.00,completed,1
+326,1166,2024-05-31,2024,2,5,May,Friday,20,Raj,Kumar,raj.kumar@email.com,Mumbai,INDIA,Standard,9,"Bluetooth Speaker",Electronics,1,55.00,20.00,55.00,11.00,44.00,completed,1
+351,1085,2024-07-07,2024,3,7,July,Sunday,21,Elena,Petrova,elena.petrova@email.com,Moscow,RUSSIA,Premium,9,"Bluetooth Speaker",Electronics,2,55.00,0.00,110.00,0.00,110.00,completed,1
+377,1240,2024-07-30,2024,3,7,July,Tuesday,5,Carlos,Lopez,carlos.lopez@email.com,Miami,USA,Standard,9,"Bluetooth Speaker",Electronics,3,55.00,0.00,165.00,0.00,165.00,completed,1
+387,1222,2024-08-18,2024,3,8,August,Sunday,22,David,Kim,david.kim@email.com,Seoul,"SOUTH KOREA",Standard,9,"Bluetooth Speaker",Electronics,1,55.00,15.00,55.00,8.25,46.75,completed,1
+390,1038,2024-08-21,2024,3,8,August,Wednesday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,9,"Bluetooth Speaker",Electronics,3,55.00,0.00,165.00,0.00,165.00,completed,1
+417,1052,2024-09-15,2024,3,9,September,Sunday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,9,"Bluetooth Speaker",Electronics,2,55.00,0.00,110.00,0.00,110.00,completed,1
+422,1116,2024-10-11,2024,4,10,October,Friday,3,Wei,Zhang,wei.zhang@email.com,Chicago,USA,Basic,9,"Bluetooth Speaker",Electronics,3,55.00,5.00,165.00,8.25,156.75,completed,1
+424,1024,2024-10-12,2024,4,10,October,Saturday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,9,"Bluetooth Speaker",Electronics,2,55.00,0.00,110.00,0.00,110.00,completed,1
+447,1154,2024-11-10,2024,4,11,November,Sunday,17,Chloe,Thomas,chloe.thomas@email.com,Vancouver,CANADA,Standard,9,"Bluetooth Speaker",Electronics,3,55.00,10.00,165.00,16.50,148.50,refunded,1
+456,1173,2024-12-11,2024,4,12,December,Wednesday,13,Isabella,Moore,cliente_13@sindatos.com,Berlin,GERMANY,Basic,9,"Bluetooth Speaker",Electronics,1,55.00,5.00,55.00,2.75,52.25,completed,1
+470,1119,2024-12-23,2024,4,12,December,Monday,18,Mohammed,Ibrahim,cliente_18@sindatos.com,Cairo,EGYPT,Basic,9,"Bluetooth Speaker",Electronics,3,55.00,20.00,165.00,33.00,132.00,completed,1
+471,1071,2024-12-25,2024,4,12,December,Wednesday,24,Ahmed,Hassan,ahmed.hassan@email.com,Casablanca,MOROCCO,Standard,9,"Bluetooth Speaker",Electronics,2,55.00,5.00,110.00,5.50,104.50,completed,1
+54,1073,2023-03-14,2023,1,3,March,Tuesday,25,Nina,Schulz,nina.schulz@email.com,Munich,GERMANY,Premium,9,"Bluetooth Speaker",Electronics,1,55.00,5.00,55.00,2.75,52.25,cancelled,0
+59,1211,2023-03-30,2023,1,3,March,Thursday,8,Emma,Johnson,emma.johnson@email.com,Toronto,CANADA,Premium,9,"Bluetooth Speaker",Electronics,3,55.00,15.00,165.00,24.75,140.25,completed,1
