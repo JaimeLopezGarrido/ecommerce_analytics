@@ -31,25 +31,25 @@ Este repositorio muestra el trabajo completo: los scripts SQL que arman el pipel
 El proyecto sigue una arquitectura de capas: raw → clean → modelado → consumo.
 
 ```
-┌──────────────────┐     ┌──────────────────┐     ┌───────────────────┐     ┌──────────────────────┐
-│   ARCHIVOS CSV    │     │   STAGING (raw)   │     │   CLEAN LAYER      │     │  STAR SCHEMA          │
-│  orders.csv        │────▶│  stg_orders       │────▶│  clean_orders      │────▶│  dim_customers        │
-│  order_items.csv   │     │  stg_order_items  │     │  clean_order_items │     │  dim_products         │
-└──────────────────┘     └──────────────────┘     └───────────────────┘     │  dim_date              │
-        script 01               script 01                script 02          │  fact_sales             │
+┌──────────────────┐     ┌──────────────────┐     ┌───────────────────┐       ┌──────────────────────┐
+│   ARCHIVOS CSV   │     │   STAGING (raw)   │    │   CLEAN LAYER     │       │  STAR SCHEMA         │
+│  orders.csv      │────▶│  stg_orders       │────▶│  clean_orders    │────▶  │  dim_customers       │
+│  order_items.csv │     │  stg_order_items  │    │  clean_order_items│       │  dim_products        │
+└──────────────────┘     └──────────────────┘     └───────────────────┘       │  dim_date            │
+        script 01               script 01                script 02            │  fact_sales          │
                                                                               └───────────┬───────────┘
                                                                                           │ script 03
                                                                                           ▼
                                                                      ┌──────────────────────────────────┐
-                                                                     │   VISTAS MART (script 04)         │
-                                                                     │   vw_sales_analysis                │
-                                                                     │   vw_customer_kpis                 │
+                                                                     │   VISTAS MART (script 04)        │
+                                                                     │   vw_sales_analysis              │
+                                                                     │   vw_customer_kpis               │
                                                                      └────────────────┬─────────────────┘
                                                                                       │
                                                                                       ▼
                                                                         ┌──────────────────────┐
-                                                                        │      POWER BI          │
-                                                                        │  ecommerce_analytics.pbix│
+                                                                        │      POWER BI        │
+                                                                        │ecommerce_analytics.pbix│
                                                                         └──────────────────────┘
 ```
 
